@@ -1,0 +1,123 @@
+﻿@model ShipperManager.Models.DonHang
+
+<div>
+    <h4>Đơn hàng</h4>
+    <hr />
+    <div class="container">
+        <dl class="dl-horizontal">
+            <dt>
+                Ngày Tạo
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.NgayTao)
+            </dd>
+
+            <dt>
+                Tổng Tiền
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.TongTien)
+            </dd>
+
+            <dt>
+                Khoản Cách
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.KhoanCach)
+            </dd>
+
+            <dt>
+                Ngày Giao
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.NgayGiao)
+            </dd>
+
+            <dt>
+                Phí Giao Hàng
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.PhiGiaoHang)
+            </dd>
+            <dt>
+                Khách Hàng
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.KhachHang.Ten)
+            </dd>
+            <dt>
+                Nhân Viên Tạo
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.NhanVien.Ten)
+            </dd>
+
+            <dt>
+                Trạng Thái
+            </dt>
+
+            <dd>
+                @foreach (var value in ShipperManager.Utils.EnumHelper<ShipperManager.Models.TrangThaiDonHang>.GetValues(ShipperManager.Models.TrangThaiDonHang.DaGiao))
+                {
+                    if (value == Model.TrangThaiGiao)
+                    {
+                        var trangThai = ShipperManager.Utils.EnumHelper<ShipperManager.Models.TrangThaiDonHang>.GetDisplayValue(value);
+                        @Html.DisplayFor(e => trangThai)
+                    }
+                }
+            </dd>
+
+        </dl>
+    </div>
+    <div class="container">
+        <div><label class="control-label">Danh Sách Sản Phẩm</label></div>
+        
+        <div>
+
+            <table class="table">
+                <tr>
+                    <th>
+                        Tên
+                    </th>
+                    <th>
+                        Giá
+                    </th>
+                    <th>
+                        Số Lượng
+                    </th>
+                    <th>
+                        Ảnh
+                    </th>
+                </tr>
+                @foreach (var item in Model.DanhSachCTTT)
+                {
+                    <tr>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.SanPham.Ten)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.SanPham.Gia)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.SoLuong)
+                        </td>
+                        <td>
+                            @*@Html.DisplayFor(modelItem => item.ImagePath)*@
+                            <img id="image" src="@item.SanPham.ImagePath" height="100" width="100" asp-append-version="true" />
+                        </td>
+                    </tr>
+                }
+            </table>
+        </div>
+    </div>
+</div>
+<p>
+    @Html.ActionLink("Quay Lại", "Index")
+</p>

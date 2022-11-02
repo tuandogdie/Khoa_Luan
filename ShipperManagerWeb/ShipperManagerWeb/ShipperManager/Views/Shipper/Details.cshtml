@@ -1,0 +1,117 @@
+﻿@model ShipperManager.ViewModel.ShipperViewModel
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Thống Kê Shipper</h2>
+<div class="form-horizontal">
+    <h4>Shipper</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            Tên
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Shipper.Ten)
+        </dd>
+
+        <dt>
+            Quê Quán
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Shipper.QueQuan)
+        </dd>
+
+        <dt>
+            Tài Khoảng
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Shipper.TaiKhoan)
+        </dd>
+
+        <dt>
+            Mật Khẩu
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Shipper.MatKhau)
+        </dd>
+
+        <dt>
+            Ngày Sinh
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Shipper.NgaySinh)
+        </dd>
+
+        <dt>
+            Trạng Thái
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Shipper.TrangThai)
+        </dd>
+
+    </dl>
+
+    <div class="form-group">
+        <div class="col-md-10"><label class="label-info ">Đơn Hàng Đã Giao</label></div>
+        <div class="col-md-10">
+            <table class="table">
+                <tr>
+                    <th>
+                        Mã Đơn Hàng
+                    </th>
+                    <th>
+                        Người Tạo
+                    </th>
+                    <th>
+                        Khách Hàng
+                    </th>
+                    <th>
+                        Ngày Tạo
+                    </th>
+                    <th>
+                        Trạng Thái
+                    </th>
+                    <th>
+                        Tổng Tiền
+                    </th>
+                </tr>
+                @foreach (var item in Model.ListDonHang)
+                {
+                    <tr>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Id)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.NhanVien.Ten)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.KhachHang.Ten)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.NgayTao)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.TrangThaiGiao)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.TongTien)
+                        </td>
+                    </tr>
+                }
+            </table>
+        </div>
+    </div>
+    <p>
+
+        @Html.ActionLink("Trở lại", "Index") |
+        @Html.ActionLink("Chỉnh sửa", "Edit", new { id = Model.Shipper.Id })
+    </p>
+</div>

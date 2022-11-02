@@ -1,0 +1,810 @@
+F:\SourceCode\Project Web\ASP.NET\ShipperManager\ShipperManager\bin\ShipperManager.dll.config
+F:\SourceCode\Project Web\ASP.NET\ShipperManager\ShipperManager\bin\ShipperManager.dll
+F:\SourceCode\Project Web\ASP.NET\ShipperManager\ShipperManager\bin\ShipperManager.pdb
+F:\SourceCode\Project Web\ASP.NET\ShipperManager\ShipperManager\bin\roslyn\csc.exe
+F:\SourceCode\Project Web\ASP.NET\ShipperManager\ShipperManager\bin\roslyn\csc.exe.config
+F:\SourceCode\Project Web\ASP.NET\ShipperManager\ShipperManager\bin\roslyn\csc.rsp
+F:\SourceCode\Project Web\ASP.NET\ShipperManager\ShipperManager\bin\roslyn\csi.exe
+F:\SourceCode\Project Web\ASP.NET\ShipperManager\ShipperManager\bin\roslyn\csi.exe.config
+F:\SourceCode\Project Web\ASP.NET\ShipperManager\ShipperManager\bin\roslyn\csi.rsp
+F:\SourceCode\Project Web\ASP.NET\ShipperManager\ShipperManager\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\SourceCode\Project Web\ASP.NET\ShipperManager\ShipperManager\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\SourceCode\Project Web\ASP.NET\ShipperManager\ShipperManager\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\SourceCode\Project Web\ASP.NET\ShipperManager\ShipperManager\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\SourceCode\Project Web\ASP.NET\ShipperManager\ShipperManager\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\SourceCode\Project Web\ASP.NET\ShipperManager\ShipperManager\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\SourceCode\Project Web\ASP.NET\ShipperManager\ShipperManager\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\SourceCode\Project Web\ASP.NET\ShipperManager\ShipperManager\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\SourceCode\Project Web\ASP.NET\ShipperManager\ShipperManager\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\SourceCode\Project Web\ASP.NET\ShipperManager\ShipperManager\bin\roslyn\Microsoft.Managed.Core.targets
+F:\SourceCode\Project Web\ASP.NET\ShipperManager\ShipperManager\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\SourceCode\Project Web\ASP.NET\ShipperManager\ShipperManager\bin\roslyn\System.AppContext.dll
+F:\SourceCode\Project Web\ASP.NET\ShipperManager\ShipperManager\bin\roslyn\System.Collections.Immutable.dll
+F:\SourceCode\Project Web\ASP.NET\ShipperManager\ShipperManager\bin\roslyn\System.Console.dll
+F:\SourceCode\Project Web\ASP.NET\ShipperManager\ShipperManager\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\SourceCode\Project Web\ASP.NET\ShipperManager\ShipperManager\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\SourceCode\Project Web\ASP.NET\ShipperManager\ShipperManager\bin\roslyn\System.IO.Compression.dll
+F:\SourceCode\Project Web\ASP.NET\ShipperManager\ShipperManager\bin\roslyn\System.IO.FileSystem.dll
+F:\SourceCode\Project Web\ASP.NET\ShipperManager\ShipperManager\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\SourceCode\Project Web\ASP.NET\ShipperManager\ShipperManager\bin\roslyn\System.IO.Pipes.AccessControl.dll
+F:\SourceCode\Project Web\ASP.NET\ShipperManager\ShipperManager\bin\roslyn\System.IO.Pipes.dll
+F:\SourceCode\Project Web\ASP.NET\ShipperManager\ShipperManager\bin\roslyn\System.Reflection.Metadata.dll
+F:\SourceCode\Project Web\ASP.NET\ShipperManager\ShipperManager\bin\roslyn\System.Security.AccessControl.dll
+F:\SourceCode\Project Web\ASP.NET\ShipperManager\ShipperManager\bin\roslyn\System.Security.Claims.dll
+F:\SourceCode\Project Web\ASP.NET\ShipperManager\ShipperManager\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\SourceCode\Project Web\ASP.NET\ShipperManager\ShipperManager\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\SourceCode\Project Web\ASP.NET\ShipperManager\ShipperManager\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\SourceCode\Project Web\ASP.NET\ShipperManager\ShipperManager\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\SourceCode\Project Web\ASP.NET\ShipperManager\ShipperManager\bin\roslyn\System.Security.Principal.Windows.dll
+F:\SourceCode\Project Web\ASP.NET\ShipperManager\ShipperManager\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\SourceCode\Project Web\ASP.NET\ShipperManager\ShipperManager\bin\roslyn\System.ValueTuple.dll
+F:\SourceCode\Project Web\ASP.NET\ShipperManager\ShipperManager\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\SourceCode\Project Web\ASP.NET\ShipperManager\ShipperManager\bin\roslyn\System.Xml.XmlDocument.dll
+F:\SourceCode\Project Web\ASP.NET\ShipperManager\ShipperManager\bin\roslyn\System.Xml.XPath.dll
+F:\SourceCode\Project Web\ASP.NET\ShipperManager\ShipperManager\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\SourceCode\Project Web\ASP.NET\ShipperManager\ShipperManager\bin\roslyn\vbc.exe
+F:\SourceCode\Project Web\ASP.NET\ShipperManager\ShipperManager\bin\roslyn\vbc.exe.config
+F:\SourceCode\Project Web\ASP.NET\ShipperManager\ShipperManager\bin\roslyn\vbc.rsp
+F:\SourceCode\Project Web\ASP.NET\ShipperManager\ShipperManager\bin\roslyn\VBCSCompiler.exe
+F:\SourceCode\Project Web\ASP.NET\ShipperManager\ShipperManager\bin\roslyn\VBCSCompiler.exe.config
+F:\SourceCode\Project Web\ASP.NET\ShipperManager\ShipperManager\bin\Antlr3.Runtime.dll
+F:\SourceCode\Project Web\ASP.NET\ShipperManager\ShipperManager\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\SourceCode\Project Web\ASP.NET\ShipperManager\ShipperManager\bin\Microsoft.Web.Infrastructure.dll
+F:\SourceCode\Project Web\ASP.NET\ShipperManager\ShipperManager\bin\Newtonsoft.Json.dll
+F:\SourceCode\Project Web\ASP.NET\ShipperManager\ShipperManager\bin\System.Web.Helpers.dll
+F:\SourceCode\Project Web\ASP.NET\ShipperManager\ShipperManager\bin\System.Web.Mvc.dll
+F:\SourceCode\Project Web\ASP.NET\ShipperManager\ShipperManager\bin\System.Web.Optimization.dll
+F:\SourceCode\Project Web\ASP.NET\ShipperManager\ShipperManager\bin\System.Web.Razor.dll
+F:\SourceCode\Project Web\ASP.NET\ShipperManager\ShipperManager\bin\System.Web.WebPages.Deployment.dll
+F:\SourceCode\Project Web\ASP.NET\ShipperManager\ShipperManager\bin\System.Web.WebPages.dll
+F:\SourceCode\Project Web\ASP.NET\ShipperManager\ShipperManager\bin\System.Web.WebPages.Razor.dll
+F:\SourceCode\Project Web\ASP.NET\ShipperManager\ShipperManager\bin\WebGrease.dll
+F:\SourceCode\Project Web\ASP.NET\ShipperManager\ShipperManager\bin\System.Web.Helpers.xml
+F:\SourceCode\Project Web\ASP.NET\ShipperManager\ShipperManager\bin\System.Web.Mvc.xml
+F:\SourceCode\Project Web\ASP.NET\ShipperManager\ShipperManager\bin\System.Web.Optimization.xml
+F:\SourceCode\Project Web\ASP.NET\ShipperManager\ShipperManager\bin\System.Web.Razor.xml
+F:\SourceCode\Project Web\ASP.NET\ShipperManager\ShipperManager\bin\System.Web.WebPages.xml
+F:\SourceCode\Project Web\ASP.NET\ShipperManager\ShipperManager\bin\System.Web.WebPages.Deployment.xml
+F:\SourceCode\Project Web\ASP.NET\ShipperManager\ShipperManager\bin\System.Web.WebPages.Razor.xml
+F:\SourceCode\Project Web\ASP.NET\ShipperManager\ShipperManager\bin\Newtonsoft.Json.xml
+F:\SourceCode\Project Web\ASP.NET\ShipperManager\ShipperManager\bin\Antlr3.Runtime.pdb
+F:\SourceCode\Project Web\ASP.NET\ShipperManager\ShipperManager\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\SourceCode\Project Web\ASP.NET\ShipperManager\ShipperManager\obj\Debug\ShipperManager.csprojAssemblyReference.cache
+F:\SourceCode\Project Web\ASP.NET\ShipperManager\ShipperManager\obj\Debug\ShipperManager.csproj.CoreCompileInputs.cache
+F:\SourceCode\Project Web\ASP.NET\ShipperManager\ShipperManager\obj\Debug\ShipperManager.csproj.CopyComplete
+F:\SourceCode\Project Web\ASP.NET\ShipperManager\ShipperManager\obj\Debug\ShipperManager.dll
+F:\SourceCode\Project Web\ASP.NET\ShipperManager\ShipperManager\obj\Debug\ShipperManager.pdb
+F:\SourceCode\Project Web\ASP.NET\ShipperManager\ShipperManager\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\SourceCode\Project Web\ASP.NET\ShipperManager\ShipperManager\bin\System.Security.Cryptography.Algorithms.dll
+F:\SourceCode\Project Web\ASP.NET\ShipperManager\ShipperManager\bin\System.ValueTuple.dll
+F:\SourceCode\Project Web\ASP.NET\ShipperManager\ShipperManager\bin\Microsoft.Win32.Primitives.dll
+F:\SourceCode\Project Web\ASP.NET\ShipperManager\ShipperManager\bin\netstandard.dll
+F:\SourceCode\Project Web\ASP.NET\ShipperManager\ShipperManager\bin\System.AppContext.dll
+F:\SourceCode\Project Web\ASP.NET\ShipperManager\ShipperManager\bin\System.Collections.Concurrent.dll
+F:\SourceCode\Project Web\ASP.NET\ShipperManager\ShipperManager\bin\System.Collections.dll
+F:\SourceCode\Project Web\ASP.NET\ShipperManager\ShipperManager\bin\System.Collections.NonGeneric.dll
+F:\SourceCode\Project Web\ASP.NET\ShipperManager\ShipperManager\bin\System.Collections.Specialized.dll
+F:\SourceCode\Project Web\ASP.NET\ShipperManager\ShipperManager\bin\System.ComponentModel.dll
+F:\SourceCode\Project Web\ASP.NET\ShipperManager\ShipperManager\bin\System.ComponentModel.EventBasedAsync.dll
+F:\SourceCode\Project Web\ASP.NET\ShipperManager\ShipperManager\bin\System.ComponentModel.Primitives.dll
+F:\SourceCode\Project Web\ASP.NET\ShipperManager\ShipperManager\bin\System.ComponentModel.TypeConverter.dll
+F:\SourceCode\Project Web\ASP.NET\ShipperManager\ShipperManager\bin\System.Console.dll
+F:\SourceCode\Project Web\ASP.NET\ShipperManager\ShipperManager\bin\System.Data.Common.dll
+F:\SourceCode\Project Web\ASP.NET\ShipperManager\ShipperManager\bin\System.Diagnostics.Contracts.dll
+F:\SourceCode\Project Web\ASP.NET\ShipperManager\ShipperManager\bin\System.Diagnostics.Debug.dll
+F:\SourceCode\Project Web\ASP.NET\ShipperManager\ShipperManager\bin\System.Diagnostics.FileVersionInfo.dll
+F:\SourceCode\Project Web\ASP.NET\ShipperManager\ShipperManager\bin\System.Diagnostics.Process.dll
+F:\SourceCode\Project Web\ASP.NET\ShipperManager\ShipperManager\bin\System.Diagnostics.StackTrace.dll
+F:\SourceCode\Project Web\ASP.NET\ShipperManager\ShipperManager\bin\System.Diagnostics.TextWriterTraceListener.dll
+F:\SourceCode\Project Web\ASP.NET\ShipperManager\ShipperManager\bin\System.Diagnostics.Tools.dll
+F:\SourceCode\Project Web\ASP.NET\ShipperManager\ShipperManager\bin\System.Diagnostics.TraceSource.dll
+F:\SourceCode\Project Web\ASP.NET\ShipperManager\ShipperManager\bin\System.Diagnostics.Tracing.dll
+F:\SourceCode\Project Web\ASP.NET\ShipperManager\ShipperManager\bin\System.Drawing.Primitives.dll
+F:\SourceCode\Project Web\ASP.NET\ShipperManager\ShipperManager\bin\System.Dynamic.Runtime.dll
+F:\SourceCode\Project Web\ASP.NET\ShipperManager\ShipperManager\bin\System.Globalization.Calendars.dll
+F:\SourceCode\Project Web\ASP.NET\ShipperManager\ShipperManager\bin\System.Globalization.dll
+F:\SourceCode\Project Web\ASP.NET\ShipperManager\ShipperManager\bin\System.Globalization.Extensions.dll
+F:\SourceCode\Project Web\ASP.NET\ShipperManager\ShipperManager\bin\System.IO.Compression.dll
+F:\SourceCode\Project Web\ASP.NET\ShipperManager\ShipperManager\bin\System.IO.Compression.ZipFile.dll
+F:\SourceCode\Project Web\ASP.NET\ShipperManager\ShipperManager\bin\System.IO.dll
+F:\SourceCode\Project Web\ASP.NET\ShipperManager\ShipperManager\bin\System.IO.FileSystem.dll
+F:\SourceCode\Project Web\ASP.NET\ShipperManager\ShipperManager\bin\System.IO.FileSystem.DriveInfo.dll
+F:\SourceCode\Project Web\ASP.NET\ShipperManager\ShipperManager\bin\System.IO.FileSystem.Primitives.dll
+F:\SourceCode\Project Web\ASP.NET\ShipperManager\ShipperManager\bin\System.IO.FileSystem.Watcher.dll
+F:\SourceCode\Project Web\ASP.NET\ShipperManager\ShipperManager\bin\System.IO.IsolatedStorage.dll
+F:\SourceCode\Project Web\ASP.NET\ShipperManager\ShipperManager\bin\System.IO.MemoryMappedFiles.dll
+F:\SourceCode\Project Web\ASP.NET\ShipperManager\ShipperManager\bin\System.IO.Pipes.dll
+F:\SourceCode\Project Web\ASP.NET\ShipperManager\ShipperManager\bin\System.IO.UnmanagedMemoryStream.dll
+F:\SourceCode\Project Web\ASP.NET\ShipperManager\ShipperManager\bin\System.Linq.dll
+F:\SourceCode\Project Web\ASP.NET\ShipperManager\ShipperManager\bin\System.Linq.Expressions.dll
+F:\SourceCode\Project Web\ASP.NET\ShipperManager\ShipperManager\bin\System.Linq.Parallel.dll
+F:\SourceCode\Project Web\ASP.NET\ShipperManager\ShipperManager\bin\System.Linq.Queryable.dll
+F:\SourceCode\Project Web\ASP.NET\ShipperManager\ShipperManager\bin\System.Net.Http.dll
+F:\SourceCode\Project Web\ASP.NET\ShipperManager\ShipperManager\bin\System.Net.NameResolution.dll
+F:\SourceCode\Project Web\ASP.NET\ShipperManager\ShipperManager\bin\System.Net.NetworkInformation.dll
+F:\SourceCode\Project Web\ASP.NET\ShipperManager\ShipperManager\bin\System.Net.Ping.dll
+F:\SourceCode\Project Web\ASP.NET\ShipperManager\ShipperManager\bin\System.Net.Primitives.dll
+F:\SourceCode\Project Web\ASP.NET\ShipperManager\ShipperManager\bin\System.Net.Requests.dll
+F:\SourceCode\Project Web\ASP.NET\ShipperManager\ShipperManager\bin\System.Net.Security.dll
+F:\SourceCode\Project Web\ASP.NET\ShipperManager\ShipperManager\bin\System.Net.Sockets.dll
+F:\SourceCode\Project Web\ASP.NET\ShipperManager\ShipperManager\bin\System.Net.WebHeaderCollection.dll
+F:\SourceCode\Project Web\ASP.NET\ShipperManager\ShipperManager\bin\System.Net.WebSockets.Client.dll
+F:\SourceCode\Project Web\ASP.NET\ShipperManager\ShipperManager\bin\System.Net.WebSockets.dll
+F:\SourceCode\Project Web\ASP.NET\ShipperManager\ShipperManager\bin\System.ObjectModel.dll
+F:\SourceCode\Project Web\ASP.NET\ShipperManager\ShipperManager\bin\System.Reflection.dll
+F:\SourceCode\Project Web\ASP.NET\ShipperManager\ShipperManager\bin\System.Reflection.Extensions.dll
+F:\SourceCode\Project Web\ASP.NET\ShipperManager\ShipperManager\bin\System.Reflection.Primitives.dll
+F:\SourceCode\Project Web\ASP.NET\ShipperManager\ShipperManager\bin\System.Resources.Reader.dll
+F:\SourceCode\Project Web\ASP.NET\ShipperManager\ShipperManager\bin\System.Resources.ResourceManager.dll
+F:\SourceCode\Project Web\ASP.NET\ShipperManager\ShipperManager\bin\System.Resources.Writer.dll
+F:\SourceCode\Project Web\ASP.NET\ShipperManager\ShipperManager\bin\System.Runtime.CompilerServices.VisualC.dll
+F:\SourceCode\Project Web\ASP.NET\ShipperManager\ShipperManager\bin\System.Runtime.dll
+F:\SourceCode\Project Web\ASP.NET\ShipperManager\ShipperManager\bin\System.Runtime.Extensions.dll
+F:\SourceCode\Project Web\ASP.NET\ShipperManager\ShipperManager\bin\System.Runtime.Handles.dll
+F:\SourceCode\Project Web\ASP.NET\ShipperManager\ShipperManager\bin\System.Runtime.InteropServices.dll
+F:\SourceCode\Project Web\ASP.NET\ShipperManager\ShipperManager\bin\System.Runtime.Numerics.dll
+F:\SourceCode\Project Web\ASP.NET\ShipperManager\ShipperManager\bin\System.Runtime.Serialization.Formatters.dll
+F:\SourceCode\Project Web\ASP.NET\ShipperManager\ShipperManager\bin\System.Runtime.Serialization.Json.dll
+F:\SourceCode\Project Web\ASP.NET\ShipperManager\ShipperManager\bin\System.Runtime.Serialization.Primitives.dll
+F:\SourceCode\Project Web\ASP.NET\ShipperManager\ShipperManager\bin\System.Runtime.Serialization.Xml.dll
+F:\SourceCode\Project Web\ASP.NET\ShipperManager\ShipperManager\bin\System.Security.Claims.dll
+F:\SourceCode\Project Web\ASP.NET\ShipperManager\ShipperManager\bin\System.Security.Cryptography.Csp.dll
+F:\SourceCode\Project Web\ASP.NET\ShipperManager\ShipperManager\bin\System.Security.Cryptography.Encoding.dll
+F:\SourceCode\Project Web\ASP.NET\ShipperManager\ShipperManager\bin\System.Security.Cryptography.Primitives.dll
+F:\SourceCode\Project Web\ASP.NET\ShipperManager\ShipperManager\bin\System.Security.Cryptography.X509Certificates.dll
+F:\SourceCode\Project Web\ASP.NET\ShipperManager\ShipperManager\bin\System.Security.Principal.dll
+F:\SourceCode\Project Web\ASP.NET\ShipperManager\ShipperManager\bin\System.Security.SecureString.dll
+F:\SourceCode\Project Web\ASP.NET\ShipperManager\ShipperManager\bin\System.Text.Encoding.dll
+F:\SourceCode\Project Web\ASP.NET\ShipperManager\ShipperManager\bin\System.Text.Encoding.Extensions.dll
+F:\SourceCode\Project Web\ASP.NET\ShipperManager\ShipperManager\bin\System.Text.RegularExpressions.dll
+F:\SourceCode\Project Web\ASP.NET\ShipperManager\ShipperManager\bin\System.Threading.dll
+F:\SourceCode\Project Web\ASP.NET\ShipperManager\ShipperManager\bin\System.Threading.Overlapped.dll
+F:\SourceCode\Project Web\ASP.NET\ShipperManager\ShipperManager\bin\System.Threading.Tasks.dll
+F:\SourceCode\Project Web\ASP.NET\ShipperManager\ShipperManager\bin\System.Threading.Tasks.Parallel.dll
+F:\SourceCode\Project Web\ASP.NET\ShipperManager\ShipperManager\bin\System.Threading.Thread.dll
+F:\SourceCode\Project Web\ASP.NET\ShipperManager\ShipperManager\bin\System.Threading.ThreadPool.dll
+F:\SourceCode\Project Web\ASP.NET\ShipperManager\ShipperManager\bin\System.Threading.Timer.dll
+F:\SourceCode\Project Web\ASP.NET\ShipperManager\ShipperManager\bin\System.Xml.ReaderWriter.dll
+F:\SourceCode\Project Web\ASP.NET\ShipperManager\ShipperManager\bin\System.Xml.XDocument.dll
+F:\SourceCode\Project Web\ASP.NET\ShipperManager\ShipperManager\bin\System.Xml.XmlDocument.dll
+F:\SourceCode\Project Web\ASP.NET\ShipperManager\ShipperManager\bin\System.Xml.XmlSerializer.dll
+F:\SourceCode\Project Web\ASP.NET\ShipperManager\ShipperManager\bin\System.Xml.XPath.dll
+F:\SourceCode\Project Web\ASP.NET\ShipperManager\ShipperManager\bin\System.Xml.XPath.XDocument.dll
+F:\SourceCode\Project Web\ASP.NET\ShipperManager\ShipperManager\bin\Firebase.dll
+F:\SourceCode\Project Web\ASP.NET\ShipperManager\ShipperManager\bin\LiteDB.dll
+F:\SourceCode\Project Web\ASP.NET\ShipperManager\ShipperManager\bin\System.Reactive.dll
+F:\SourceCode\Project Web\ASP.NET\ShipperManager\ShipperManager\bin\Firebase.xml
+F:\SourceCode\Project Web\ASP.NET\ShipperManager\ShipperManager\bin\LiteDB.xml
+F:\SourceCode\Project Web\ASP.NET\ShipperManager\ShipperManager\bin\System.Reactive.xml
+F:\SourceCode\Sipper Manager System\ShipperManager\ShipperManagerWeb\ShipperManager\bin\ShipperManager.dll.config
+F:\SourceCode\Sipper Manager System\ShipperManager\ShipperManagerWeb\ShipperManager\bin\ShipperManager.dll
+F:\SourceCode\Sipper Manager System\ShipperManager\ShipperManagerWeb\ShipperManager\bin\ShipperManager.pdb
+F:\SourceCode\Sipper Manager System\ShipperManager\ShipperManagerWeb\ShipperManager\bin\roslyn\csc.exe
+F:\SourceCode\Sipper Manager System\ShipperManager\ShipperManagerWeb\ShipperManager\bin\roslyn\csc.exe.config
+F:\SourceCode\Sipper Manager System\ShipperManager\ShipperManagerWeb\ShipperManager\bin\roslyn\csc.rsp
+F:\SourceCode\Sipper Manager System\ShipperManager\ShipperManagerWeb\ShipperManager\bin\roslyn\csi.exe
+F:\SourceCode\Sipper Manager System\ShipperManager\ShipperManagerWeb\ShipperManager\bin\roslyn\csi.exe.config
+F:\SourceCode\Sipper Manager System\ShipperManager\ShipperManagerWeb\ShipperManager\bin\roslyn\csi.rsp
+F:\SourceCode\Sipper Manager System\ShipperManager\ShipperManagerWeb\ShipperManager\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\SourceCode\Sipper Manager System\ShipperManager\ShipperManagerWeb\ShipperManager\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\SourceCode\Sipper Manager System\ShipperManager\ShipperManagerWeb\ShipperManager\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\SourceCode\Sipper Manager System\ShipperManager\ShipperManagerWeb\ShipperManager\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\SourceCode\Sipper Manager System\ShipperManager\ShipperManagerWeb\ShipperManager\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\SourceCode\Sipper Manager System\ShipperManager\ShipperManagerWeb\ShipperManager\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\SourceCode\Sipper Manager System\ShipperManager\ShipperManagerWeb\ShipperManager\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\SourceCode\Sipper Manager System\ShipperManager\ShipperManagerWeb\ShipperManager\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\SourceCode\Sipper Manager System\ShipperManager\ShipperManagerWeb\ShipperManager\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\SourceCode\Sipper Manager System\ShipperManager\ShipperManagerWeb\ShipperManager\bin\roslyn\Microsoft.Managed.Core.targets
+F:\SourceCode\Sipper Manager System\ShipperManager\ShipperManagerWeb\ShipperManager\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\SourceCode\Sipper Manager System\ShipperManager\ShipperManagerWeb\ShipperManager\bin\roslyn\System.AppContext.dll
+F:\SourceCode\Sipper Manager System\ShipperManager\ShipperManagerWeb\ShipperManager\bin\roslyn\System.Collections.Immutable.dll
+F:\SourceCode\Sipper Manager System\ShipperManager\ShipperManagerWeb\ShipperManager\bin\roslyn\System.Console.dll
+F:\SourceCode\Sipper Manager System\ShipperManager\ShipperManagerWeb\ShipperManager\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\SourceCode\Sipper Manager System\ShipperManager\ShipperManagerWeb\ShipperManager\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\SourceCode\Sipper Manager System\ShipperManager\ShipperManagerWeb\ShipperManager\bin\roslyn\System.IO.Compression.dll
+F:\SourceCode\Sipper Manager System\ShipperManager\ShipperManagerWeb\ShipperManager\bin\roslyn\System.IO.FileSystem.dll
+F:\SourceCode\Sipper Manager System\ShipperManager\ShipperManagerWeb\ShipperManager\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\SourceCode\Sipper Manager System\ShipperManager\ShipperManagerWeb\ShipperManager\bin\roslyn\System.IO.Pipes.AccessControl.dll
+F:\SourceCode\Sipper Manager System\ShipperManager\ShipperManagerWeb\ShipperManager\bin\roslyn\System.IO.Pipes.dll
+F:\SourceCode\Sipper Manager System\ShipperManager\ShipperManagerWeb\ShipperManager\bin\roslyn\System.Reflection.Metadata.dll
+F:\SourceCode\Sipper Manager System\ShipperManager\ShipperManagerWeb\ShipperManager\bin\roslyn\System.Security.AccessControl.dll
+F:\SourceCode\Sipper Manager System\ShipperManager\ShipperManagerWeb\ShipperManager\bin\roslyn\System.Security.Claims.dll
+F:\SourceCode\Sipper Manager System\ShipperManager\ShipperManagerWeb\ShipperManager\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\SourceCode\Sipper Manager System\ShipperManager\ShipperManagerWeb\ShipperManager\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\SourceCode\Sipper Manager System\ShipperManager\ShipperManagerWeb\ShipperManager\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\SourceCode\Sipper Manager System\ShipperManager\ShipperManagerWeb\ShipperManager\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\SourceCode\Sipper Manager System\ShipperManager\ShipperManagerWeb\ShipperManager\bin\roslyn\System.Security.Principal.Windows.dll
+F:\SourceCode\Sipper Manager System\ShipperManager\ShipperManagerWeb\ShipperManager\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\SourceCode\Sipper Manager System\ShipperManager\ShipperManagerWeb\ShipperManager\bin\roslyn\System.ValueTuple.dll
+F:\SourceCode\Sipper Manager System\ShipperManager\ShipperManagerWeb\ShipperManager\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\SourceCode\Sipper Manager System\ShipperManager\ShipperManagerWeb\ShipperManager\bin\roslyn\System.Xml.XmlDocument.dll
+F:\SourceCode\Sipper Manager System\ShipperManager\ShipperManagerWeb\ShipperManager\bin\roslyn\System.Xml.XPath.dll
+F:\SourceCode\Sipper Manager System\ShipperManager\ShipperManagerWeb\ShipperManager\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\SourceCode\Sipper Manager System\ShipperManager\ShipperManagerWeb\ShipperManager\bin\roslyn\vbc.exe
+F:\SourceCode\Sipper Manager System\ShipperManager\ShipperManagerWeb\ShipperManager\bin\roslyn\vbc.exe.config
+F:\SourceCode\Sipper Manager System\ShipperManager\ShipperManagerWeb\ShipperManager\bin\roslyn\vbc.rsp
+F:\SourceCode\Sipper Manager System\ShipperManager\ShipperManagerWeb\ShipperManager\bin\roslyn\VBCSCompiler.exe
+F:\SourceCode\Sipper Manager System\ShipperManager\ShipperManagerWeb\ShipperManager\bin\roslyn\VBCSCompiler.exe.config
+F:\SourceCode\Sipper Manager System\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\SourceCode\Sipper Manager System\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.Security.Cryptography.Algorithms.dll
+F:\SourceCode\Sipper Manager System\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.ValueTuple.dll
+F:\SourceCode\Sipper Manager System\ShipperManager\ShipperManagerWeb\ShipperManager\bin\Microsoft.Win32.Primitives.dll
+F:\SourceCode\Sipper Manager System\ShipperManager\ShipperManagerWeb\ShipperManager\bin\netstandard.dll
+F:\SourceCode\Sipper Manager System\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.AppContext.dll
+F:\SourceCode\Sipper Manager System\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.Collections.Concurrent.dll
+F:\SourceCode\Sipper Manager System\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.Collections.dll
+F:\SourceCode\Sipper Manager System\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.Collections.NonGeneric.dll
+F:\SourceCode\Sipper Manager System\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.Collections.Specialized.dll
+F:\SourceCode\Sipper Manager System\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.ComponentModel.dll
+F:\SourceCode\Sipper Manager System\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.ComponentModel.EventBasedAsync.dll
+F:\SourceCode\Sipper Manager System\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.ComponentModel.Primitives.dll
+F:\SourceCode\Sipper Manager System\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.ComponentModel.TypeConverter.dll
+F:\SourceCode\Sipper Manager System\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.Console.dll
+F:\SourceCode\Sipper Manager System\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.Data.Common.dll
+F:\SourceCode\Sipper Manager System\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.Diagnostics.Contracts.dll
+F:\SourceCode\Sipper Manager System\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.Diagnostics.Debug.dll
+F:\SourceCode\Sipper Manager System\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.Diagnostics.FileVersionInfo.dll
+F:\SourceCode\Sipper Manager System\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.Diagnostics.Process.dll
+F:\SourceCode\Sipper Manager System\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.Diagnostics.StackTrace.dll
+F:\SourceCode\Sipper Manager System\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.Diagnostics.TextWriterTraceListener.dll
+F:\SourceCode\Sipper Manager System\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.Diagnostics.Tools.dll
+F:\SourceCode\Sipper Manager System\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.Diagnostics.TraceSource.dll
+F:\SourceCode\Sipper Manager System\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.Diagnostics.Tracing.dll
+F:\SourceCode\Sipper Manager System\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.Drawing.Primitives.dll
+F:\SourceCode\Sipper Manager System\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.Dynamic.Runtime.dll
+F:\SourceCode\Sipper Manager System\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.Globalization.Calendars.dll
+F:\SourceCode\Sipper Manager System\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.Globalization.dll
+F:\SourceCode\Sipper Manager System\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.Globalization.Extensions.dll
+F:\SourceCode\Sipper Manager System\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.IO.Compression.dll
+F:\SourceCode\Sipper Manager System\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.IO.Compression.ZipFile.dll
+F:\SourceCode\Sipper Manager System\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.IO.dll
+F:\SourceCode\Sipper Manager System\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.IO.FileSystem.dll
+F:\SourceCode\Sipper Manager System\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.IO.FileSystem.DriveInfo.dll
+F:\SourceCode\Sipper Manager System\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.IO.FileSystem.Primitives.dll
+F:\SourceCode\Sipper Manager System\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.IO.FileSystem.Watcher.dll
+F:\SourceCode\Sipper Manager System\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.IO.IsolatedStorage.dll
+F:\SourceCode\Sipper Manager System\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.IO.MemoryMappedFiles.dll
+F:\SourceCode\Sipper Manager System\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.IO.Pipes.dll
+F:\SourceCode\Sipper Manager System\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.IO.UnmanagedMemoryStream.dll
+F:\SourceCode\Sipper Manager System\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.Linq.dll
+F:\SourceCode\Sipper Manager System\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.Linq.Expressions.dll
+F:\SourceCode\Sipper Manager System\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.Linq.Parallel.dll
+F:\SourceCode\Sipper Manager System\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.Linq.Queryable.dll
+F:\SourceCode\Sipper Manager System\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.Net.Http.dll
+F:\SourceCode\Sipper Manager System\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.Net.NameResolution.dll
+F:\SourceCode\Sipper Manager System\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.Net.NetworkInformation.dll
+F:\SourceCode\Sipper Manager System\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.Net.Ping.dll
+F:\SourceCode\Sipper Manager System\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.Net.Primitives.dll
+F:\SourceCode\Sipper Manager System\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.Net.Requests.dll
+F:\SourceCode\Sipper Manager System\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.Net.Security.dll
+F:\SourceCode\Sipper Manager System\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.Net.Sockets.dll
+F:\SourceCode\Sipper Manager System\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.Net.WebHeaderCollection.dll
+F:\SourceCode\Sipper Manager System\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.Net.WebSockets.Client.dll
+F:\SourceCode\Sipper Manager System\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.Net.WebSockets.dll
+F:\SourceCode\Sipper Manager System\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.ObjectModel.dll
+F:\SourceCode\Sipper Manager System\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.Reflection.dll
+F:\SourceCode\Sipper Manager System\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.Reflection.Extensions.dll
+F:\SourceCode\Sipper Manager System\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.Reflection.Primitives.dll
+F:\SourceCode\Sipper Manager System\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.Resources.Reader.dll
+F:\SourceCode\Sipper Manager System\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.Resources.ResourceManager.dll
+F:\SourceCode\Sipper Manager System\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.Resources.Writer.dll
+F:\SourceCode\Sipper Manager System\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.Runtime.CompilerServices.VisualC.dll
+F:\SourceCode\Sipper Manager System\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.Runtime.dll
+F:\SourceCode\Sipper Manager System\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.Runtime.Extensions.dll
+F:\SourceCode\Sipper Manager System\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.Runtime.Handles.dll
+F:\SourceCode\Sipper Manager System\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.Runtime.InteropServices.dll
+F:\SourceCode\Sipper Manager System\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.Runtime.Numerics.dll
+F:\SourceCode\Sipper Manager System\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.Runtime.Serialization.Formatters.dll
+F:\SourceCode\Sipper Manager System\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.Runtime.Serialization.Json.dll
+F:\SourceCode\Sipper Manager System\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.Runtime.Serialization.Primitives.dll
+F:\SourceCode\Sipper Manager System\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.Runtime.Serialization.Xml.dll
+F:\SourceCode\Sipper Manager System\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.Security.Claims.dll
+F:\SourceCode\Sipper Manager System\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.Security.Cryptography.Csp.dll
+F:\SourceCode\Sipper Manager System\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.Security.Cryptography.Encoding.dll
+F:\SourceCode\Sipper Manager System\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.Security.Cryptography.Primitives.dll
+F:\SourceCode\Sipper Manager System\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.Security.Cryptography.X509Certificates.dll
+F:\SourceCode\Sipper Manager System\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.Security.Principal.dll
+F:\SourceCode\Sipper Manager System\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.Security.SecureString.dll
+F:\SourceCode\Sipper Manager System\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.Text.Encoding.dll
+F:\SourceCode\Sipper Manager System\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.Text.Encoding.Extensions.dll
+F:\SourceCode\Sipper Manager System\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.Text.RegularExpressions.dll
+F:\SourceCode\Sipper Manager System\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.Threading.dll
+F:\SourceCode\Sipper Manager System\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.Threading.Overlapped.dll
+F:\SourceCode\Sipper Manager System\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.Threading.Tasks.dll
+F:\SourceCode\Sipper Manager System\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.Threading.Tasks.Parallel.dll
+F:\SourceCode\Sipper Manager System\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.Threading.Thread.dll
+F:\SourceCode\Sipper Manager System\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.Threading.ThreadPool.dll
+F:\SourceCode\Sipper Manager System\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.Threading.Timer.dll
+F:\SourceCode\Sipper Manager System\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.Xml.ReaderWriter.dll
+F:\SourceCode\Sipper Manager System\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.Xml.XDocument.dll
+F:\SourceCode\Sipper Manager System\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.Xml.XmlDocument.dll
+F:\SourceCode\Sipper Manager System\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.Xml.XmlSerializer.dll
+F:\SourceCode\Sipper Manager System\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.Xml.XPath.dll
+F:\SourceCode\Sipper Manager System\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.Xml.XPath.XDocument.dll
+F:\SourceCode\Sipper Manager System\ShipperManager\ShipperManagerWeb\ShipperManager\bin\Antlr3.Runtime.dll
+F:\SourceCode\Sipper Manager System\ShipperManager\ShipperManagerWeb\ShipperManager\bin\Firebase.dll
+F:\SourceCode\Sipper Manager System\ShipperManager\ShipperManagerWeb\ShipperManager\bin\LiteDB.dll
+F:\SourceCode\Sipper Manager System\ShipperManager\ShipperManagerWeb\ShipperManager\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\SourceCode\Sipper Manager System\ShipperManager\ShipperManagerWeb\ShipperManager\bin\Microsoft.Web.Infrastructure.dll
+F:\SourceCode\Sipper Manager System\ShipperManager\ShipperManagerWeb\ShipperManager\bin\Newtonsoft.Json.dll
+F:\SourceCode\Sipper Manager System\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.Reactive.dll
+F:\SourceCode\Sipper Manager System\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.Web.Helpers.dll
+F:\SourceCode\Sipper Manager System\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.Web.Mvc.dll
+F:\SourceCode\Sipper Manager System\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.Web.Optimization.dll
+F:\SourceCode\Sipper Manager System\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.Web.Razor.dll
+F:\SourceCode\Sipper Manager System\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.Web.WebPages.Deployment.dll
+F:\SourceCode\Sipper Manager System\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.Web.WebPages.dll
+F:\SourceCode\Sipper Manager System\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.Web.WebPages.Razor.dll
+F:\SourceCode\Sipper Manager System\ShipperManager\ShipperManagerWeb\ShipperManager\bin\WebGrease.dll
+F:\SourceCode\Sipper Manager System\ShipperManager\ShipperManagerWeb\ShipperManager\bin\Firebase.xml
+F:\SourceCode\Sipper Manager System\ShipperManager\ShipperManagerWeb\ShipperManager\bin\LiteDB.xml
+F:\SourceCode\Sipper Manager System\ShipperManager\ShipperManagerWeb\ShipperManager\bin\Newtonsoft.Json.xml
+F:\SourceCode\Sipper Manager System\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.Reactive.xml
+F:\SourceCode\Sipper Manager System\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.Web.Helpers.xml
+F:\SourceCode\Sipper Manager System\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.Web.Mvc.xml
+F:\SourceCode\Sipper Manager System\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.Web.Optimization.xml
+F:\SourceCode\Sipper Manager System\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.Web.Razor.xml
+F:\SourceCode\Sipper Manager System\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.Web.WebPages.xml
+F:\SourceCode\Sipper Manager System\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.Web.WebPages.Deployment.xml
+F:\SourceCode\Sipper Manager System\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.Web.WebPages.Razor.xml
+F:\SourceCode\Sipper Manager System\ShipperManager\ShipperManagerWeb\ShipperManager\bin\Antlr3.Runtime.pdb
+F:\SourceCode\Sipper Manager System\ShipperManager\ShipperManagerWeb\ShipperManager\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\SourceCode\Sipper Manager System\ShipperManager\ShipperManagerWeb\ShipperManager\obj\Debug\ShipperManager.csprojAssemblyReference.cache
+F:\SourceCode\Sipper Manager System\ShipperManager\ShipperManagerWeb\ShipperManager\obj\Debug\ShipperManager.csproj.CoreCompileInputs.cache
+F:\SourceCode\Sipper Manager System\ShipperManager\ShipperManagerWeb\ShipperManager\obj\Debug\ShipperManager.csproj.CopyComplete
+F:\SourceCode\Sipper Manager System\ShipperManager\ShipperManagerWeb\ShipperManager\obj\Debug\ShipperManager.dll
+F:\SourceCode\Sipper Manager System\ShipperManager\ShipperManagerWeb\ShipperManager\obj\Debug\ShipperManager.pdb
+F:\SourceCode\Sipper Manager System\ShipperManager\ShipperManagerWeb\ShipperManager\bin\Firebase.Auth.dll
+F:\SourceCode\Sipper Manager System\ShipperManager\ShipperManagerWeb\ShipperManager\bin\Firebase.Storage.dll
+F:\SourceCode\Sipper Manager System\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.Diagnostics.DiagnosticSource.dll
+F:\SourceCode\Sipper Manager System\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.Diagnostics.DiagnosticSource.xml
+D:\kltn\ShipperManager\ShipperManagerWeb\ShipperManager\bin\ShipperManager.dll.config
+D:\kltn\ShipperManager\ShipperManagerWeb\ShipperManager\bin\ShipperManager.dll
+D:\kltn\ShipperManager\ShipperManagerWeb\ShipperManager\bin\ShipperManager.pdb
+D:\kltn\ShipperManager\ShipperManagerWeb\ShipperManager\bin\roslyn\csc.exe
+D:\kltn\ShipperManager\ShipperManagerWeb\ShipperManager\bin\roslyn\csc.exe.config
+D:\kltn\ShipperManager\ShipperManagerWeb\ShipperManager\bin\roslyn\csc.rsp
+D:\kltn\ShipperManager\ShipperManagerWeb\ShipperManager\bin\roslyn\csi.exe
+D:\kltn\ShipperManager\ShipperManagerWeb\ShipperManager\bin\roslyn\csi.exe.config
+D:\kltn\ShipperManager\ShipperManagerWeb\ShipperManager\bin\roslyn\csi.rsp
+D:\kltn\ShipperManager\ShipperManagerWeb\ShipperManager\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\kltn\ShipperManager\ShipperManagerWeb\ShipperManager\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\kltn\ShipperManager\ShipperManagerWeb\ShipperManager\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\kltn\ShipperManager\ShipperManagerWeb\ShipperManager\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\kltn\ShipperManager\ShipperManagerWeb\ShipperManager\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\kltn\ShipperManager\ShipperManagerWeb\ShipperManager\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\kltn\ShipperManager\ShipperManagerWeb\ShipperManager\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\kltn\ShipperManager\ShipperManagerWeb\ShipperManager\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\kltn\ShipperManager\ShipperManagerWeb\ShipperManager\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\kltn\ShipperManager\ShipperManagerWeb\ShipperManager\bin\roslyn\Microsoft.Managed.Core.targets
+D:\kltn\ShipperManager\ShipperManagerWeb\ShipperManager\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\kltn\ShipperManager\ShipperManagerWeb\ShipperManager\bin\roslyn\System.AppContext.dll
+D:\kltn\ShipperManager\ShipperManagerWeb\ShipperManager\bin\roslyn\System.Collections.Immutable.dll
+D:\kltn\ShipperManager\ShipperManagerWeb\ShipperManager\bin\roslyn\System.Console.dll
+D:\kltn\ShipperManager\ShipperManagerWeb\ShipperManager\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\kltn\ShipperManager\ShipperManagerWeb\ShipperManager\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\kltn\ShipperManager\ShipperManagerWeb\ShipperManager\bin\roslyn\System.IO.Compression.dll
+D:\kltn\ShipperManager\ShipperManagerWeb\ShipperManager\bin\roslyn\System.IO.FileSystem.dll
+D:\kltn\ShipperManager\ShipperManagerWeb\ShipperManager\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\kltn\ShipperManager\ShipperManagerWeb\ShipperManager\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\kltn\ShipperManager\ShipperManagerWeb\ShipperManager\bin\roslyn\System.IO.Pipes.dll
+D:\kltn\ShipperManager\ShipperManagerWeb\ShipperManager\bin\roslyn\System.Reflection.Metadata.dll
+D:\kltn\ShipperManager\ShipperManagerWeb\ShipperManager\bin\roslyn\System.Security.AccessControl.dll
+D:\kltn\ShipperManager\ShipperManagerWeb\ShipperManager\bin\roslyn\System.Security.Claims.dll
+D:\kltn\ShipperManager\ShipperManagerWeb\ShipperManager\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\kltn\ShipperManager\ShipperManagerWeb\ShipperManager\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\kltn\ShipperManager\ShipperManagerWeb\ShipperManager\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\kltn\ShipperManager\ShipperManagerWeb\ShipperManager\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\kltn\ShipperManager\ShipperManagerWeb\ShipperManager\bin\roslyn\System.Security.Principal.Windows.dll
+D:\kltn\ShipperManager\ShipperManagerWeb\ShipperManager\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\kltn\ShipperManager\ShipperManagerWeb\ShipperManager\bin\roslyn\System.ValueTuple.dll
+D:\kltn\ShipperManager\ShipperManagerWeb\ShipperManager\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\kltn\ShipperManager\ShipperManagerWeb\ShipperManager\bin\roslyn\System.Xml.XmlDocument.dll
+D:\kltn\ShipperManager\ShipperManagerWeb\ShipperManager\bin\roslyn\System.Xml.XPath.dll
+D:\kltn\ShipperManager\ShipperManagerWeb\ShipperManager\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\kltn\ShipperManager\ShipperManagerWeb\ShipperManager\bin\roslyn\vbc.exe
+D:\kltn\ShipperManager\ShipperManagerWeb\ShipperManager\bin\roslyn\vbc.exe.config
+D:\kltn\ShipperManager\ShipperManagerWeb\ShipperManager\bin\roslyn\vbc.rsp
+D:\kltn\ShipperManager\ShipperManagerWeb\ShipperManager\bin\roslyn\VBCSCompiler.exe
+D:\kltn\ShipperManager\ShipperManagerWeb\ShipperManager\bin\roslyn\VBCSCompiler.exe.config
+D:\kltn\ShipperManager\ShipperManagerWeb\ShipperManager\bin\Microsoft.Win32.Primitives.dll
+D:\kltn\ShipperManager\ShipperManagerWeb\ShipperManager\bin\netstandard.dll
+D:\kltn\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.AppContext.dll
+D:\kltn\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.Collections.Concurrent.dll
+D:\kltn\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.Collections.dll
+D:\kltn\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.Collections.NonGeneric.dll
+D:\kltn\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.Collections.Specialized.dll
+D:\kltn\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.ComponentModel.dll
+D:\kltn\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.ComponentModel.EventBasedAsync.dll
+D:\kltn\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.ComponentModel.Primitives.dll
+D:\kltn\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.ComponentModel.TypeConverter.dll
+D:\kltn\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.Console.dll
+D:\kltn\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.Data.Common.dll
+D:\kltn\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.Diagnostics.Contracts.dll
+D:\kltn\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.Diagnostics.Debug.dll
+D:\kltn\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.Diagnostics.FileVersionInfo.dll
+D:\kltn\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.Diagnostics.Process.dll
+D:\kltn\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.Diagnostics.StackTrace.dll
+D:\kltn\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.Diagnostics.TextWriterTraceListener.dll
+D:\kltn\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.Diagnostics.Tools.dll
+D:\kltn\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.Diagnostics.TraceSource.dll
+D:\kltn\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.Diagnostics.Tracing.dll
+D:\kltn\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.Drawing.Primitives.dll
+D:\kltn\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.Dynamic.Runtime.dll
+D:\kltn\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.Globalization.Calendars.dll
+D:\kltn\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.Globalization.dll
+D:\kltn\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.Globalization.Extensions.dll
+D:\kltn\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.IO.Compression.dll
+D:\kltn\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.IO.Compression.ZipFile.dll
+D:\kltn\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.IO.dll
+D:\kltn\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.IO.FileSystem.dll
+D:\kltn\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.IO.FileSystem.DriveInfo.dll
+D:\kltn\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.IO.FileSystem.Primitives.dll
+D:\kltn\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.IO.FileSystem.Watcher.dll
+D:\kltn\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.IO.IsolatedStorage.dll
+D:\kltn\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.IO.MemoryMappedFiles.dll
+D:\kltn\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.IO.Pipes.dll
+D:\kltn\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.IO.UnmanagedMemoryStream.dll
+D:\kltn\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.Linq.dll
+D:\kltn\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.Linq.Expressions.dll
+D:\kltn\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.Linq.Parallel.dll
+D:\kltn\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.Linq.Queryable.dll
+D:\kltn\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.Net.Http.dll
+D:\kltn\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.Net.NameResolution.dll
+D:\kltn\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.Net.NetworkInformation.dll
+D:\kltn\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.Net.Ping.dll
+D:\kltn\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.Net.Primitives.dll
+D:\kltn\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.Net.Requests.dll
+D:\kltn\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.Net.Security.dll
+D:\kltn\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.Net.Sockets.dll
+D:\kltn\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.Net.WebHeaderCollection.dll
+D:\kltn\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.Net.WebSockets.Client.dll
+D:\kltn\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.Net.WebSockets.dll
+D:\kltn\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.ObjectModel.dll
+D:\kltn\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.Reflection.dll
+D:\kltn\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.Reflection.Extensions.dll
+D:\kltn\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.Reflection.Primitives.dll
+D:\kltn\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.Resources.Reader.dll
+D:\kltn\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.Resources.ResourceManager.dll
+D:\kltn\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.Resources.Writer.dll
+D:\kltn\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.Runtime.CompilerServices.VisualC.dll
+D:\kltn\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.Runtime.dll
+D:\kltn\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.Runtime.Extensions.dll
+D:\kltn\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.Runtime.Handles.dll
+D:\kltn\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.Runtime.InteropServices.dll
+D:\kltn\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\kltn\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.Runtime.Numerics.dll
+D:\kltn\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.Runtime.Serialization.Formatters.dll
+D:\kltn\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.Runtime.Serialization.Json.dll
+D:\kltn\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.Runtime.Serialization.Primitives.dll
+D:\kltn\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.Runtime.Serialization.Xml.dll
+D:\kltn\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.Security.Claims.dll
+D:\kltn\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.Security.Cryptography.Algorithms.dll
+D:\kltn\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.Security.Cryptography.Csp.dll
+D:\kltn\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.Security.Cryptography.Encoding.dll
+D:\kltn\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.Security.Cryptography.Primitives.dll
+D:\kltn\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.Security.Cryptography.X509Certificates.dll
+D:\kltn\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.Security.Principal.dll
+D:\kltn\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.Security.SecureString.dll
+D:\kltn\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.Text.Encoding.dll
+D:\kltn\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.Text.Encoding.Extensions.dll
+D:\kltn\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.Text.RegularExpressions.dll
+D:\kltn\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.Threading.dll
+D:\kltn\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.Threading.Overlapped.dll
+D:\kltn\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.Threading.Tasks.dll
+D:\kltn\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.Threading.Tasks.Parallel.dll
+D:\kltn\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.Threading.Thread.dll
+D:\kltn\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.Threading.ThreadPool.dll
+D:\kltn\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.Threading.Timer.dll
+D:\kltn\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.ValueTuple.dll
+D:\kltn\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.Xml.ReaderWriter.dll
+D:\kltn\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.Xml.XDocument.dll
+D:\kltn\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.Xml.XmlDocument.dll
+D:\kltn\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.Xml.XmlSerializer.dll
+D:\kltn\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.Xml.XPath.dll
+D:\kltn\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.Xml.XPath.XDocument.dll
+D:\kltn\ShipperManager\ShipperManagerWeb\ShipperManager\bin\Antlr3.Runtime.dll
+D:\kltn\ShipperManager\ShipperManagerWeb\ShipperManager\bin\Firebase.Auth.dll
+D:\kltn\ShipperManager\ShipperManagerWeb\ShipperManager\bin\Firebase.dll
+D:\kltn\ShipperManager\ShipperManagerWeb\ShipperManager\bin\Firebase.Storage.dll
+D:\kltn\ShipperManager\ShipperManagerWeb\ShipperManager\bin\LiteDB.dll
+D:\kltn\ShipperManager\ShipperManagerWeb\ShipperManager\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\kltn\ShipperManager\ShipperManagerWeb\ShipperManager\bin\Microsoft.Web.Infrastructure.dll
+D:\kltn\ShipperManager\ShipperManagerWeb\ShipperManager\bin\Newtonsoft.Json.dll
+D:\kltn\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.Diagnostics.DiagnosticSource.dll
+D:\kltn\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.Reactive.dll
+D:\kltn\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.Web.Helpers.dll
+D:\kltn\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.Web.Mvc.dll
+D:\kltn\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.Web.Optimization.dll
+D:\kltn\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.Web.Razor.dll
+D:\kltn\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.Web.WebPages.Deployment.dll
+D:\kltn\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.Web.WebPages.dll
+D:\kltn\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.Web.WebPages.Razor.dll
+D:\kltn\ShipperManager\ShipperManagerWeb\ShipperManager\bin\WebGrease.dll
+D:\kltn\ShipperManager\ShipperManagerWeb\ShipperManager\bin\Firebase.xml
+D:\kltn\ShipperManager\ShipperManagerWeb\ShipperManager\bin\LiteDB.xml
+D:\kltn\ShipperManager\ShipperManagerWeb\ShipperManager\bin\Newtonsoft.Json.xml
+D:\kltn\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.Diagnostics.DiagnosticSource.xml
+D:\kltn\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.Reactive.xml
+D:\kltn\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.Web.Helpers.xml
+D:\kltn\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.Web.Mvc.xml
+D:\kltn\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.Web.Optimization.xml
+D:\kltn\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.Web.Razor.xml
+D:\kltn\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.Web.WebPages.xml
+D:\kltn\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.Web.WebPages.Deployment.xml
+D:\kltn\ShipperManager\ShipperManagerWeb\ShipperManager\bin\System.Web.WebPages.Razor.xml
+D:\kltn\ShipperManager\ShipperManagerWeb\ShipperManager\bin\Antlr3.Runtime.pdb
+D:\kltn\ShipperManager\ShipperManagerWeb\ShipperManager\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\kltn\ShipperManager\ShipperManagerWeb\ShipperManager\obj\Debug\ShipperManager.csprojAssemblyReference.cache
+D:\kltn\ShipperManager\ShipperManagerWeb\ShipperManager\obj\Debug\ShipperManager.csproj.CoreCompileInputs.cache
+D:\kltn\ShipperManager\ShipperManagerWeb\ShipperManager\obj\Debug\ShipperManager.csproj.CopyComplete
+D:\kltn\ShipperManager\ShipperManagerWeb\ShipperManager\obj\Debug\ShipperManager.dll
+D:\kltn\ShipperManager\ShipperManagerWeb\ShipperManager\obj\Debug\ShipperManager.pdb
+D:\DoAn\ShipperManagerWeb\ShipperManager\bin\ShipperManager.dll.config
+D:\DoAn\ShipperManagerWeb\ShipperManager\bin\ShipperManager.dll
+D:\DoAn\ShipperManagerWeb\ShipperManager\bin\ShipperManager.pdb
+D:\DoAn\ShipperManagerWeb\ShipperManager\bin\roslyn\csc.exe
+D:\DoAn\ShipperManagerWeb\ShipperManager\bin\roslyn\csc.exe.config
+D:\DoAn\ShipperManagerWeb\ShipperManager\bin\roslyn\csc.rsp
+D:\DoAn\ShipperManagerWeb\ShipperManager\bin\roslyn\csi.exe
+D:\DoAn\ShipperManagerWeb\ShipperManager\bin\roslyn\csi.exe.config
+D:\DoAn\ShipperManagerWeb\ShipperManager\bin\roslyn\csi.rsp
+D:\DoAn\ShipperManagerWeb\ShipperManager\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\DoAn\ShipperManagerWeb\ShipperManager\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\DoAn\ShipperManagerWeb\ShipperManager\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\DoAn\ShipperManagerWeb\ShipperManager\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\DoAn\ShipperManagerWeb\ShipperManager\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\DoAn\ShipperManagerWeb\ShipperManager\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\DoAn\ShipperManagerWeb\ShipperManager\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\DoAn\ShipperManagerWeb\ShipperManager\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\DoAn\ShipperManagerWeb\ShipperManager\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\DoAn\ShipperManagerWeb\ShipperManager\bin\roslyn\Microsoft.Managed.Core.targets
+D:\DoAn\ShipperManagerWeb\ShipperManager\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\DoAn\ShipperManagerWeb\ShipperManager\bin\roslyn\System.AppContext.dll
+D:\DoAn\ShipperManagerWeb\ShipperManager\bin\roslyn\System.Collections.Immutable.dll
+D:\DoAn\ShipperManagerWeb\ShipperManager\bin\roslyn\System.Console.dll
+D:\DoAn\ShipperManagerWeb\ShipperManager\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\DoAn\ShipperManagerWeb\ShipperManager\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\DoAn\ShipperManagerWeb\ShipperManager\bin\roslyn\System.IO.Compression.dll
+D:\DoAn\ShipperManagerWeb\ShipperManager\bin\roslyn\System.IO.FileSystem.dll
+D:\DoAn\ShipperManagerWeb\ShipperManager\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\DoAn\ShipperManagerWeb\ShipperManager\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\DoAn\ShipperManagerWeb\ShipperManager\bin\roslyn\System.IO.Pipes.dll
+D:\DoAn\ShipperManagerWeb\ShipperManager\bin\roslyn\System.Reflection.Metadata.dll
+D:\DoAn\ShipperManagerWeb\ShipperManager\bin\roslyn\System.Security.AccessControl.dll
+D:\DoAn\ShipperManagerWeb\ShipperManager\bin\roslyn\System.Security.Claims.dll
+D:\DoAn\ShipperManagerWeb\ShipperManager\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\DoAn\ShipperManagerWeb\ShipperManager\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\DoAn\ShipperManagerWeb\ShipperManager\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\DoAn\ShipperManagerWeb\ShipperManager\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\DoAn\ShipperManagerWeb\ShipperManager\bin\roslyn\System.Security.Principal.Windows.dll
+D:\DoAn\ShipperManagerWeb\ShipperManager\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\DoAn\ShipperManagerWeb\ShipperManager\bin\roslyn\System.ValueTuple.dll
+D:\DoAn\ShipperManagerWeb\ShipperManager\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\DoAn\ShipperManagerWeb\ShipperManager\bin\roslyn\System.Xml.XmlDocument.dll
+D:\DoAn\ShipperManagerWeb\ShipperManager\bin\roslyn\System.Xml.XPath.dll
+D:\DoAn\ShipperManagerWeb\ShipperManager\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\DoAn\ShipperManagerWeb\ShipperManager\bin\roslyn\vbc.exe
+D:\DoAn\ShipperManagerWeb\ShipperManager\bin\roslyn\vbc.exe.config
+D:\DoAn\ShipperManagerWeb\ShipperManager\bin\roslyn\vbc.rsp
+D:\DoAn\ShipperManagerWeb\ShipperManager\bin\roslyn\VBCSCompiler.exe
+D:\DoAn\ShipperManagerWeb\ShipperManager\bin\roslyn\VBCSCompiler.exe.config
+D:\DoAn\ShipperManagerWeb\ShipperManager\bin\Microsoft.Win32.Primitives.dll
+D:\DoAn\ShipperManagerWeb\ShipperManager\bin\netstandard.dll
+D:\DoAn\ShipperManagerWeb\ShipperManager\bin\System.AppContext.dll
+D:\DoAn\ShipperManagerWeb\ShipperManager\bin\System.Collections.Concurrent.dll
+D:\DoAn\ShipperManagerWeb\ShipperManager\bin\System.Collections.dll
+D:\DoAn\ShipperManagerWeb\ShipperManager\bin\System.Collections.NonGeneric.dll
+D:\DoAn\ShipperManagerWeb\ShipperManager\bin\System.Collections.Specialized.dll
+D:\DoAn\ShipperManagerWeb\ShipperManager\bin\System.ComponentModel.dll
+D:\DoAn\ShipperManagerWeb\ShipperManager\bin\System.ComponentModel.EventBasedAsync.dll
+D:\DoAn\ShipperManagerWeb\ShipperManager\bin\System.ComponentModel.Primitives.dll
+D:\DoAn\ShipperManagerWeb\ShipperManager\bin\System.ComponentModel.TypeConverter.dll
+D:\DoAn\ShipperManagerWeb\ShipperManager\bin\System.Console.dll
+D:\DoAn\ShipperManagerWeb\ShipperManager\bin\System.Data.Common.dll
+D:\DoAn\ShipperManagerWeb\ShipperManager\bin\System.Diagnostics.Contracts.dll
+D:\DoAn\ShipperManagerWeb\ShipperManager\bin\System.Diagnostics.Debug.dll
+D:\DoAn\ShipperManagerWeb\ShipperManager\bin\System.Diagnostics.FileVersionInfo.dll
+D:\DoAn\ShipperManagerWeb\ShipperManager\bin\System.Diagnostics.Process.dll
+D:\DoAn\ShipperManagerWeb\ShipperManager\bin\System.Diagnostics.StackTrace.dll
+D:\DoAn\ShipperManagerWeb\ShipperManager\bin\System.Diagnostics.TextWriterTraceListener.dll
+D:\DoAn\ShipperManagerWeb\ShipperManager\bin\System.Diagnostics.Tools.dll
+D:\DoAn\ShipperManagerWeb\ShipperManager\bin\System.Diagnostics.TraceSource.dll
+D:\DoAn\ShipperManagerWeb\ShipperManager\bin\System.Diagnostics.Tracing.dll
+D:\DoAn\ShipperManagerWeb\ShipperManager\bin\System.Drawing.Primitives.dll
+D:\DoAn\ShipperManagerWeb\ShipperManager\bin\System.Dynamic.Runtime.dll
+D:\DoAn\ShipperManagerWeb\ShipperManager\bin\System.Globalization.Calendars.dll
+D:\DoAn\ShipperManagerWeb\ShipperManager\bin\System.Globalization.dll
+D:\DoAn\ShipperManagerWeb\ShipperManager\bin\System.Globalization.Extensions.dll
+D:\DoAn\ShipperManagerWeb\ShipperManager\bin\System.IO.Compression.dll
+D:\DoAn\ShipperManagerWeb\ShipperManager\bin\System.IO.Compression.ZipFile.dll
+D:\DoAn\ShipperManagerWeb\ShipperManager\bin\System.IO.dll
+D:\DoAn\ShipperManagerWeb\ShipperManager\bin\System.IO.FileSystem.dll
+D:\DoAn\ShipperManagerWeb\ShipperManager\bin\System.IO.FileSystem.DriveInfo.dll
+D:\DoAn\ShipperManagerWeb\ShipperManager\bin\System.IO.FileSystem.Primitives.dll
+D:\DoAn\ShipperManagerWeb\ShipperManager\bin\System.IO.FileSystem.Watcher.dll
+D:\DoAn\ShipperManagerWeb\ShipperManager\bin\System.IO.IsolatedStorage.dll
+D:\DoAn\ShipperManagerWeb\ShipperManager\bin\System.IO.MemoryMappedFiles.dll
+D:\DoAn\ShipperManagerWeb\ShipperManager\bin\System.IO.Pipes.dll
+D:\DoAn\ShipperManagerWeb\ShipperManager\bin\System.IO.UnmanagedMemoryStream.dll
+D:\DoAn\ShipperManagerWeb\ShipperManager\bin\System.Linq.dll
+D:\DoAn\ShipperManagerWeb\ShipperManager\bin\System.Linq.Expressions.dll
+D:\DoAn\ShipperManagerWeb\ShipperManager\bin\System.Linq.Parallel.dll
+D:\DoAn\ShipperManagerWeb\ShipperManager\bin\System.Linq.Queryable.dll
+D:\DoAn\ShipperManagerWeb\ShipperManager\bin\System.Net.Http.dll
+D:\DoAn\ShipperManagerWeb\ShipperManager\bin\System.Net.NameResolution.dll
+D:\DoAn\ShipperManagerWeb\ShipperManager\bin\System.Net.NetworkInformation.dll
+D:\DoAn\ShipperManagerWeb\ShipperManager\bin\System.Net.Ping.dll
+D:\DoAn\ShipperManagerWeb\ShipperManager\bin\System.Net.Primitives.dll
+D:\DoAn\ShipperManagerWeb\ShipperManager\bin\System.Net.Requests.dll
+D:\DoAn\ShipperManagerWeb\ShipperManager\bin\System.Net.Security.dll
+D:\DoAn\ShipperManagerWeb\ShipperManager\bin\System.Net.Sockets.dll
+D:\DoAn\ShipperManagerWeb\ShipperManager\bin\System.Net.WebHeaderCollection.dll
+D:\DoAn\ShipperManagerWeb\ShipperManager\bin\System.Net.WebSockets.Client.dll
+D:\DoAn\ShipperManagerWeb\ShipperManager\bin\System.Net.WebSockets.dll
+D:\DoAn\ShipperManagerWeb\ShipperManager\bin\System.ObjectModel.dll
+D:\DoAn\ShipperManagerWeb\ShipperManager\bin\System.Reflection.dll
+D:\DoAn\ShipperManagerWeb\ShipperManager\bin\System.Reflection.Extensions.dll
+D:\DoAn\ShipperManagerWeb\ShipperManager\bin\System.Reflection.Primitives.dll
+D:\DoAn\ShipperManagerWeb\ShipperManager\bin\System.Resources.Reader.dll
+D:\DoAn\ShipperManagerWeb\ShipperManager\bin\System.Resources.ResourceManager.dll
+D:\DoAn\ShipperManagerWeb\ShipperManager\bin\System.Resources.Writer.dll
+D:\DoAn\ShipperManagerWeb\ShipperManager\bin\System.Runtime.CompilerServices.VisualC.dll
+D:\DoAn\ShipperManagerWeb\ShipperManager\bin\System.Runtime.dll
+D:\DoAn\ShipperManagerWeb\ShipperManager\bin\System.Runtime.Extensions.dll
+D:\DoAn\ShipperManagerWeb\ShipperManager\bin\System.Runtime.Handles.dll
+D:\DoAn\ShipperManagerWeb\ShipperManager\bin\System.Runtime.InteropServices.dll
+D:\DoAn\ShipperManagerWeb\ShipperManager\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\DoAn\ShipperManagerWeb\ShipperManager\bin\System.Runtime.Numerics.dll
+D:\DoAn\ShipperManagerWeb\ShipperManager\bin\System.Runtime.Serialization.Formatters.dll
+D:\DoAn\ShipperManagerWeb\ShipperManager\bin\System.Runtime.Serialization.Json.dll
+D:\DoAn\ShipperManagerWeb\ShipperManager\bin\System.Runtime.Serialization.Primitives.dll
+D:\DoAn\ShipperManagerWeb\ShipperManager\bin\System.Runtime.Serialization.Xml.dll
+D:\DoAn\ShipperManagerWeb\ShipperManager\bin\System.Security.Claims.dll
+D:\DoAn\ShipperManagerWeb\ShipperManager\bin\System.Security.Cryptography.Algorithms.dll
+D:\DoAn\ShipperManagerWeb\ShipperManager\bin\System.Security.Cryptography.Csp.dll
+D:\DoAn\ShipperManagerWeb\ShipperManager\bin\System.Security.Cryptography.Encoding.dll
+D:\DoAn\ShipperManagerWeb\ShipperManager\bin\System.Security.Cryptography.Primitives.dll
+D:\DoAn\ShipperManagerWeb\ShipperManager\bin\System.Security.Cryptography.X509Certificates.dll
+D:\DoAn\ShipperManagerWeb\ShipperManager\bin\System.Security.Principal.dll
+D:\DoAn\ShipperManagerWeb\ShipperManager\bin\System.Security.SecureString.dll
+D:\DoAn\ShipperManagerWeb\ShipperManager\bin\System.Text.Encoding.dll
+D:\DoAn\ShipperManagerWeb\ShipperManager\bin\System.Text.Encoding.Extensions.dll
+D:\DoAn\ShipperManagerWeb\ShipperManager\bin\System.Text.RegularExpressions.dll
+D:\DoAn\ShipperManagerWeb\ShipperManager\bin\System.Threading.dll
+D:\DoAn\ShipperManagerWeb\ShipperManager\bin\System.Threading.Overlapped.dll
+D:\DoAn\ShipperManagerWeb\ShipperManager\bin\System.Threading.Tasks.dll
+D:\DoAn\ShipperManagerWeb\ShipperManager\bin\System.Threading.Tasks.Parallel.dll
+D:\DoAn\ShipperManagerWeb\ShipperManager\bin\System.Threading.Thread.dll
+D:\DoAn\ShipperManagerWeb\ShipperManager\bin\System.Threading.ThreadPool.dll
+D:\DoAn\ShipperManagerWeb\ShipperManager\bin\System.Threading.Timer.dll
+D:\DoAn\ShipperManagerWeb\ShipperManager\bin\System.ValueTuple.dll
+D:\DoAn\ShipperManagerWeb\ShipperManager\bin\System.Xml.ReaderWriter.dll
+D:\DoAn\ShipperManagerWeb\ShipperManager\bin\System.Xml.XDocument.dll
+D:\DoAn\ShipperManagerWeb\ShipperManager\bin\System.Xml.XmlDocument.dll
+D:\DoAn\ShipperManagerWeb\ShipperManager\bin\System.Xml.XmlSerializer.dll
+D:\DoAn\ShipperManagerWeb\ShipperManager\bin\System.Xml.XPath.dll
+D:\DoAn\ShipperManagerWeb\ShipperManager\bin\System.Xml.XPath.XDocument.dll
+D:\DoAn\ShipperManagerWeb\ShipperManager\bin\Antlr3.Runtime.dll
+D:\DoAn\ShipperManagerWeb\ShipperManager\bin\Firebase.Auth.dll
+D:\DoAn\ShipperManagerWeb\ShipperManager\bin\Firebase.dll
+D:\DoAn\ShipperManagerWeb\ShipperManager\bin\Firebase.Storage.dll
+D:\DoAn\ShipperManagerWeb\ShipperManager\bin\LiteDB.dll
+D:\DoAn\ShipperManagerWeb\ShipperManager\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\DoAn\ShipperManagerWeb\ShipperManager\bin\Microsoft.Web.Infrastructure.dll
+D:\DoAn\ShipperManagerWeb\ShipperManager\bin\Newtonsoft.Json.dll
+D:\DoAn\ShipperManagerWeb\ShipperManager\bin\System.Diagnostics.DiagnosticSource.dll
+D:\DoAn\ShipperManagerWeb\ShipperManager\bin\System.Reactive.dll
+D:\DoAn\ShipperManagerWeb\ShipperManager\bin\System.Web.Helpers.dll
+D:\DoAn\ShipperManagerWeb\ShipperManager\bin\System.Web.Mvc.dll
+D:\DoAn\ShipperManagerWeb\ShipperManager\bin\System.Web.Optimization.dll
+D:\DoAn\ShipperManagerWeb\ShipperManager\bin\System.Web.Razor.dll
+D:\DoAn\ShipperManagerWeb\ShipperManager\bin\System.Web.WebPages.Deployment.dll
+D:\DoAn\ShipperManagerWeb\ShipperManager\bin\System.Web.WebPages.dll
+D:\DoAn\ShipperManagerWeb\ShipperManager\bin\System.Web.WebPages.Razor.dll
+D:\DoAn\ShipperManagerWeb\ShipperManager\bin\WebGrease.dll
+D:\DoAn\ShipperManagerWeb\ShipperManager\bin\Firebase.xml
+D:\DoAn\ShipperManagerWeb\ShipperManager\bin\LiteDB.xml
+D:\DoAn\ShipperManagerWeb\ShipperManager\bin\Newtonsoft.Json.xml
+D:\DoAn\ShipperManagerWeb\ShipperManager\bin\System.Diagnostics.DiagnosticSource.xml
+D:\DoAn\ShipperManagerWeb\ShipperManager\bin\System.Reactive.xml
+D:\DoAn\ShipperManagerWeb\ShipperManager\bin\System.Web.Helpers.xml
+D:\DoAn\ShipperManagerWeb\ShipperManager\bin\System.Web.Mvc.xml
+D:\DoAn\ShipperManagerWeb\ShipperManager\bin\System.Web.Optimization.xml
+D:\DoAn\ShipperManagerWeb\ShipperManager\bin\System.Web.Razor.xml
+D:\DoAn\ShipperManagerWeb\ShipperManager\bin\System.Web.WebPages.xml
+D:\DoAn\ShipperManagerWeb\ShipperManager\bin\System.Web.WebPages.Deployment.xml
+D:\DoAn\ShipperManagerWeb\ShipperManager\bin\System.Web.WebPages.Razor.xml
+D:\DoAn\ShipperManagerWeb\ShipperManager\bin\Antlr3.Runtime.pdb
+D:\DoAn\ShipperManagerWeb\ShipperManager\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\DoAn\ShipperManagerWeb\ShipperManager\obj\Debug\ShipperManager.csproj.AssemblyReference.cache
+D:\DoAn\ShipperManagerWeb\ShipperManager\obj\Debug\ShipperManager.csproj.CoreCompileInputs.cache
+D:\DoAn\ShipperManagerWeb\ShipperManager\obj\Debug\ShipperManager.csproj.CopyComplete
+D:\DoAn\ShipperManagerWeb\ShipperManager\obj\Debug\ShipperManager.dll
+D:\DoAn\ShipperManagerWeb\ShipperManager\obj\Debug\ShipperManager.pdb
+C:\Users\Administrator\Desktop\KLTN\Project_KLTN\ShipperManagerWeb\ShipperManagerWeb\ShipperManager\bin\ShipperManager.dll.config
+C:\Users\Administrator\Desktop\KLTN\Project_KLTN\ShipperManagerWeb\ShipperManagerWeb\ShipperManager\bin\ShipperManager.dll
+C:\Users\Administrator\Desktop\KLTN\Project_KLTN\ShipperManagerWeb\ShipperManagerWeb\ShipperManager\bin\ShipperManager.pdb
+C:\Users\Administrator\Desktop\KLTN\Project_KLTN\ShipperManagerWeb\ShipperManagerWeb\ShipperManager\bin\roslyn\csc.exe
+C:\Users\Administrator\Desktop\KLTN\Project_KLTN\ShipperManagerWeb\ShipperManagerWeb\ShipperManager\bin\roslyn\csc.exe.config
+C:\Users\Administrator\Desktop\KLTN\Project_KLTN\ShipperManagerWeb\ShipperManagerWeb\ShipperManager\bin\roslyn\csc.rsp
+C:\Users\Administrator\Desktop\KLTN\Project_KLTN\ShipperManagerWeb\ShipperManagerWeb\ShipperManager\bin\roslyn\csi.exe
+C:\Users\Administrator\Desktop\KLTN\Project_KLTN\ShipperManagerWeb\ShipperManagerWeb\ShipperManager\bin\roslyn\csi.exe.config
+C:\Users\Administrator\Desktop\KLTN\Project_KLTN\ShipperManagerWeb\ShipperManagerWeb\ShipperManager\bin\roslyn\csi.rsp
+C:\Users\Administrator\Desktop\KLTN\Project_KLTN\ShipperManagerWeb\ShipperManagerWeb\ShipperManager\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Administrator\Desktop\KLTN\Project_KLTN\ShipperManagerWeb\ShipperManagerWeb\ShipperManager\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Administrator\Desktop\KLTN\Project_KLTN\ShipperManagerWeb\ShipperManagerWeb\ShipperManager\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Administrator\Desktop\KLTN\Project_KLTN\ShipperManagerWeb\ShipperManagerWeb\ShipperManager\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Administrator\Desktop\KLTN\Project_KLTN\ShipperManagerWeb\ShipperManagerWeb\ShipperManager\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Administrator\Desktop\KLTN\Project_KLTN\ShipperManagerWeb\ShipperManagerWeb\ShipperManager\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Administrator\Desktop\KLTN\Project_KLTN\ShipperManagerWeb\ShipperManagerWeb\ShipperManager\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Administrator\Desktop\KLTN\Project_KLTN\ShipperManagerWeb\ShipperManagerWeb\ShipperManager\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Administrator\Desktop\KLTN\Project_KLTN\ShipperManagerWeb\ShipperManagerWeb\ShipperManager\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Administrator\Desktop\KLTN\Project_KLTN\ShipperManagerWeb\ShipperManagerWeb\ShipperManager\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Administrator\Desktop\KLTN\Project_KLTN\ShipperManagerWeb\ShipperManagerWeb\ShipperManager\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Administrator\Desktop\KLTN\Project_KLTN\ShipperManagerWeb\ShipperManagerWeb\ShipperManager\bin\roslyn\System.AppContext.dll
+C:\Users\Administrator\Desktop\KLTN\Project_KLTN\ShipperManagerWeb\ShipperManagerWeb\ShipperManager\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Administrator\Desktop\KLTN\Project_KLTN\ShipperManagerWeb\ShipperManagerWeb\ShipperManager\bin\roslyn\System.Console.dll
+C:\Users\Administrator\Desktop\KLTN\Project_KLTN\ShipperManagerWeb\ShipperManagerWeb\ShipperManager\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Administrator\Desktop\KLTN\Project_KLTN\ShipperManagerWeb\ShipperManagerWeb\ShipperManager\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Administrator\Desktop\KLTN\Project_KLTN\ShipperManagerWeb\ShipperManagerWeb\ShipperManager\bin\roslyn\System.IO.Compression.dll
+C:\Users\Administrator\Desktop\KLTN\Project_KLTN\ShipperManagerWeb\ShipperManagerWeb\ShipperManager\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Administrator\Desktop\KLTN\Project_KLTN\ShipperManagerWeb\ShipperManagerWeb\ShipperManager\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Administrator\Desktop\KLTN\Project_KLTN\ShipperManagerWeb\ShipperManagerWeb\ShipperManager\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Administrator\Desktop\KLTN\Project_KLTN\ShipperManagerWeb\ShipperManagerWeb\ShipperManager\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Administrator\Desktop\KLTN\Project_KLTN\ShipperManagerWeb\ShipperManagerWeb\ShipperManager\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Administrator\Desktop\KLTN\Project_KLTN\ShipperManagerWeb\ShipperManagerWeb\ShipperManager\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Administrator\Desktop\KLTN\Project_KLTN\ShipperManagerWeb\ShipperManagerWeb\ShipperManager\bin\roslyn\System.Security.Claims.dll
+C:\Users\Administrator\Desktop\KLTN\Project_KLTN\ShipperManagerWeb\ShipperManagerWeb\ShipperManager\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Administrator\Desktop\KLTN\Project_KLTN\ShipperManagerWeb\ShipperManagerWeb\ShipperManager\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Administrator\Desktop\KLTN\Project_KLTN\ShipperManagerWeb\ShipperManagerWeb\ShipperManager\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Administrator\Desktop\KLTN\Project_KLTN\ShipperManagerWeb\ShipperManagerWeb\ShipperManager\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Administrator\Desktop\KLTN\Project_KLTN\ShipperManagerWeb\ShipperManagerWeb\ShipperManager\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Administrator\Desktop\KLTN\Project_KLTN\ShipperManagerWeb\ShipperManagerWeb\ShipperManager\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Administrator\Desktop\KLTN\Project_KLTN\ShipperManagerWeb\ShipperManagerWeb\ShipperManager\bin\roslyn\System.ValueTuple.dll
+C:\Users\Administrator\Desktop\KLTN\Project_KLTN\ShipperManagerWeb\ShipperManagerWeb\ShipperManager\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Administrator\Desktop\KLTN\Project_KLTN\ShipperManagerWeb\ShipperManagerWeb\ShipperManager\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Administrator\Desktop\KLTN\Project_KLTN\ShipperManagerWeb\ShipperManagerWeb\ShipperManager\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Administrator\Desktop\KLTN\Project_KLTN\ShipperManagerWeb\ShipperManagerWeb\ShipperManager\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Administrator\Desktop\KLTN\Project_KLTN\ShipperManagerWeb\ShipperManagerWeb\ShipperManager\bin\roslyn\vbc.exe
+C:\Users\Administrator\Desktop\KLTN\Project_KLTN\ShipperManagerWeb\ShipperManagerWeb\ShipperManager\bin\roslyn\vbc.exe.config
+C:\Users\Administrator\Desktop\KLTN\Project_KLTN\ShipperManagerWeb\ShipperManagerWeb\ShipperManager\bin\roslyn\vbc.rsp
+C:\Users\Administrator\Desktop\KLTN\Project_KLTN\ShipperManagerWeb\ShipperManagerWeb\ShipperManager\bin\roslyn\VBCSCompiler.exe
+C:\Users\Administrator\Desktop\KLTN\Project_KLTN\ShipperManagerWeb\ShipperManagerWeb\ShipperManager\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Administrator\Desktop\KLTN\Project_KLTN\ShipperManagerWeb\ShipperManagerWeb\ShipperManager\bin\Antlr3.Runtime.dll
+C:\Users\Administrator\Desktop\KLTN\Project_KLTN\ShipperManagerWeb\ShipperManagerWeb\ShipperManager\bin\Firebase.Auth.dll
+C:\Users\Administrator\Desktop\KLTN\Project_KLTN\ShipperManagerWeb\ShipperManagerWeb\ShipperManager\bin\Firebase.dll
+C:\Users\Administrator\Desktop\KLTN\Project_KLTN\ShipperManagerWeb\ShipperManagerWeb\ShipperManager\bin\Firebase.Storage.dll
+C:\Users\Administrator\Desktop\KLTN\Project_KLTN\ShipperManagerWeb\ShipperManagerWeb\ShipperManager\bin\LiteDB.dll
+C:\Users\Administrator\Desktop\KLTN\Project_KLTN\ShipperManagerWeb\ShipperManagerWeb\ShipperManager\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Administrator\Desktop\KLTN\Project_KLTN\ShipperManagerWeb\ShipperManagerWeb\ShipperManager\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Administrator\Desktop\KLTN\Project_KLTN\ShipperManagerWeb\ShipperManagerWeb\ShipperManager\bin\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\KLTN\Project_KLTN\ShipperManagerWeb\ShipperManagerWeb\ShipperManager\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Administrator\Desktop\KLTN\Project_KLTN\ShipperManagerWeb\ShipperManagerWeb\ShipperManager\bin\System.Reactive.dll
+C:\Users\Administrator\Desktop\KLTN\Project_KLTN\ShipperManagerWeb\ShipperManagerWeb\ShipperManager\bin\System.Web.Helpers.dll
+C:\Users\Administrator\Desktop\KLTN\Project_KLTN\ShipperManagerWeb\ShipperManagerWeb\ShipperManager\bin\System.Web.Mvc.dll
+C:\Users\Administrator\Desktop\KLTN\Project_KLTN\ShipperManagerWeb\ShipperManagerWeb\ShipperManager\bin\System.Web.Optimization.dll
+C:\Users\Administrator\Desktop\KLTN\Project_KLTN\ShipperManagerWeb\ShipperManagerWeb\ShipperManager\bin\System.Web.Razor.dll
+C:\Users\Administrator\Desktop\KLTN\Project_KLTN\ShipperManagerWeb\ShipperManagerWeb\ShipperManager\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Administrator\Desktop\KLTN\Project_KLTN\ShipperManagerWeb\ShipperManagerWeb\ShipperManager\bin\System.Web.WebPages.dll
+C:\Users\Administrator\Desktop\KLTN\Project_KLTN\ShipperManagerWeb\ShipperManagerWeb\ShipperManager\bin\System.Web.WebPages.Razor.dll
+C:\Users\Administrator\Desktop\KLTN\Project_KLTN\ShipperManagerWeb\ShipperManagerWeb\ShipperManager\bin\WebGrease.dll
+C:\Users\Administrator\Desktop\KLTN\Project_KLTN\ShipperManagerWeb\ShipperManagerWeb\ShipperManager\bin\Firebase.xml
+C:\Users\Administrator\Desktop\KLTN\Project_KLTN\ShipperManagerWeb\ShipperManagerWeb\ShipperManager\bin\LiteDB.xml
+C:\Users\Administrator\Desktop\KLTN\Project_KLTN\ShipperManagerWeb\ShipperManagerWeb\ShipperManager\bin\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\KLTN\Project_KLTN\ShipperManagerWeb\ShipperManagerWeb\ShipperManager\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Administrator\Desktop\KLTN\Project_KLTN\ShipperManagerWeb\ShipperManagerWeb\ShipperManager\bin\System.Reactive.xml
+C:\Users\Administrator\Desktop\KLTN\Project_KLTN\ShipperManagerWeb\ShipperManagerWeb\ShipperManager\bin\System.Web.Helpers.xml
+C:\Users\Administrator\Desktop\KLTN\Project_KLTN\ShipperManagerWeb\ShipperManagerWeb\ShipperManager\bin\System.Web.Mvc.xml
+C:\Users\Administrator\Desktop\KLTN\Project_KLTN\ShipperManagerWeb\ShipperManagerWeb\ShipperManager\bin\System.Web.Optimization.xml
+C:\Users\Administrator\Desktop\KLTN\Project_KLTN\ShipperManagerWeb\ShipperManagerWeb\ShipperManager\bin\System.Web.Razor.xml
+C:\Users\Administrator\Desktop\KLTN\Project_KLTN\ShipperManagerWeb\ShipperManagerWeb\ShipperManager\bin\System.Web.WebPages.xml
+C:\Users\Administrator\Desktop\KLTN\Project_KLTN\ShipperManagerWeb\ShipperManagerWeb\ShipperManager\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Administrator\Desktop\KLTN\Project_KLTN\ShipperManagerWeb\ShipperManagerWeb\ShipperManager\bin\System.Web.WebPages.Razor.xml
+C:\Users\Administrator\Desktop\KLTN\Project_KLTN\ShipperManagerWeb\ShipperManagerWeb\ShipperManager\bin\Antlr3.Runtime.pdb
+C:\Users\Administrator\Desktop\KLTN\Project_KLTN\ShipperManagerWeb\ShipperManagerWeb\ShipperManager\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Administrator\Desktop\KLTN\Project_KLTN\ShipperManagerWeb\ShipperManagerWeb\ShipperManager\obj\Debug\ShipperManager.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\KLTN\Project_KLTN\ShipperManagerWeb\ShipperManagerWeb\ShipperManager\obj\Debug\ShipperManager.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\KLTN\Project_KLTN\ShipperManagerWeb\ShipperManagerWeb\ShipperManager\obj\Debug\ShipperManager.csproj.CopyComplete
+C:\Users\Administrator\Desktop\KLTN\Project_KLTN\ShipperManagerWeb\ShipperManagerWeb\ShipperManager\obj\Debug\ShipperManager.dll
+C:\Users\Administrator\Desktop\KLTN\Project_KLTN\ShipperManagerWeb\ShipperManagerWeb\ShipperManager\obj\Debug\ShipperManager.pdb

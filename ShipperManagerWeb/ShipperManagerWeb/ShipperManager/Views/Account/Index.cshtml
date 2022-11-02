@@ -1,0 +1,28 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_LoginLayout.cshtml";
+}
+
+<h2>Trang Đăng Nhập</h2>
+<div class="login">
+    <div id="login">
+        @using (Html.BeginForm("LoginAsync", "Account", new { @strUrl = Request.Url.ToString() }))
+        {
+            @Html.Label("Tên Tài Khoản:")
+            @Html.TextBox("txtUser", "", htmlAttributes: new { @id = "userName", @placeholder = "nhập tên tài khoản" })
+            <br /><br />
+            @Html.Label("Mật Khẩu:")
+            @Html.Password("txtPass", "", htmlAttributes: new { @id = "password", @placeholder = "nhập mật khẩu" })
+            <br /><br />
+            <input type="submit" name="btn-login" id="login-button" value="Đăng Nhập" />
+            <br /><br />
+            <input type="checkbox" id="check">
+            <span>Ghi Nhớ Tôi</span>
+            <br><br>
+            <div style="color:red; font-style:italic; font-size:8pt">@TempData["ThongBao"]</div>
+            <br><br>
+            <a href="#">Quên Mật Khẩu</a>
+        }
+    </div>
+</div>

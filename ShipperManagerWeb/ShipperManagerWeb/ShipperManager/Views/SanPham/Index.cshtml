@@ -1,0 +1,59 @@
+﻿@model IEnumerable<ShipperManager.Models.SanPham>
+
+@{
+    ViewBag.Title = "Quản Lý Sản Phẩm";
+}
+
+<h2>Danh Sách Sản Phẩm</h2>
+<p>
+    <a class="btn btn-success" href="@Url.Action("Create","SanPham")">
+        Thêm Mới
+    </a>
+</p>
+<table class="table">
+    <tr>
+        <th>
+           ID
+        </th>
+        <th>
+           Tên
+        </th>
+        <th>
+           Giá
+        </th>
+        <th>
+           Mô Tả
+        </th>
+        <th>
+           Ảnh
+        </th>
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Id)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Ten)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Gia)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.MoTa)
+            </td>
+            <td>
+                <img id="image" src="@item.ImagePath" height="100" width="100" asp-append-version="true"/>
+            </td>
+            <td>
+                @Html.ActionLink("Chỉnh Sửa", "Edit", new { ma = item.Id }) <br />
+                @Html.ActionLink("Xóa", "Delete", new { ma = item.Id }) <br />
+                <a href="@Url.Action("AddOrderDetail","DonHang",new {@ProID = item.Id, @strURL = Request.Url.ToString()})">
+                    Thêm Vào Đơn Hàng
+                </a>
+            </td>
+        </tr>
+    }
+</table>
+

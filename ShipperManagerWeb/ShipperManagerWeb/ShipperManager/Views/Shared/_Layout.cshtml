@@ -1,0 +1,53 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Shipper Manager</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+    <link rel="stylesheet" type="text/css" href="~/Content/map.css" />
+    <link rel="stylesheet" type="text/css" href="~/Content/Site.css" />
+    <link rel="shortcut icon" type="image/x-icon" href="~/Content/images/logo.png" />
+</head>
+<body>
+    <div class="navbar navbar-light bg-light navbar-static-top" style="background-color: #FFEB3B">
+        <div class="container">
+            <a href="@Url.Action("Index", "SanPham")" class="navbar-brand">
+                <img src="~/Content/images/logo.png" width="30" height="30" class="d-inline-block align-top" alt="" />
+            </a>
+            <a href="@Url.Action("Index", "SanPham")" class="navbar-brand">
+                Shipper Manager
+            </a>
+
+            <div class="navbar-collapse collapse">
+                <ul class="nav navbar-nav">
+                    <li>@Html.ActionLink("Sản Phẩm", "Index", "SanPham")</li>
+                    <li>@Html.ActionLink("Đơn Hàng", "Index", "DonHang")</li>
+                    <li>@Html.ActionLink("Shipper", "Index", "Shipper")</li>
+                    <li>@Html.ActionLink("Khách Hàng", "Index", "KhachHang")</li>
+                    <li>@Html.ActionLink("Phương Thức Thanh Toán", "Index", "PhuongThucThanhToan")</li>
+
+                </ul>
+                <ul class="nav navbar-nav navbar-right">
+                    <li>
+                        @Html.Action("OrderDetailPartial", "DonHang")
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+
+    <div class="container body-content">
+        @RenderBody()
+        <hr />
+        <footer>
+            <p>&copy; @DateTime.Now.Year - Shipper Manager - Trương Tính Trung - Nguyễn Anh Tuấn</p>
+        </footer>
+    </div>
+
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)
+</body>
+</html>

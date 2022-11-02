@@ -1,0 +1,29 @@
+﻿<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<script>
+    function createOrder() {
+        var quantity = parseInt(@ViewBag.QuantitySum)
+        if (quantity <= 0) {
+            alert("Hãy chọn sản phẩm trước khi tạo đơn hàng")
+        }
+        else {
+            var url = "@Url.Action("Create", "DonHang")"
+            window.location.href = url
+        }
+    }
+
+</script>
+<style>
+    .btn.create-order {
+        background-color: #FFEB3B; /* Blue background */
+        border: none; /* Remove borders */
+        color: black; /* White text */
+        padding: 14px 16px; /* Some padding */
+        font-size: 16px; /* Set a font size */
+        cursor: pointer; /* Mouse pointer on hover */
+    }
+        /* Darker background on mouse-over */
+        .btn.create-order:hover {
+            background-color: #d4c013;
+        }
+</style>
+<button onclick="createOrder()" class="btn create-order"><i class="fa fa-folder">(@ViewBag.QuantitySum)</i></button>

@@ -1,0 +1,66 @@
+﻿@model IEnumerable<ShipperManager.Models.DonHang>
+
+@{
+    ViewBag.Title = "Quán Lý Đơn Hàng";
+}
+
+<h2>Quản Lý Đơn Hàng</h2>
+
+<table class="table">
+    <tr>
+        <th>
+            Người Tạo
+        </th>
+        <th>
+            Khách hàng
+        </th>
+        <th>
+            Ngày Tạo
+        </th>
+        <th>
+            Trạng Thái Giao
+        </th>
+        <th>
+            Phương Thức Thanh Toán
+        </th>
+        <th>
+            Khoảng Cách
+        </th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.NhanVien.Ten)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.KhachHang.Ten)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.NgayTao)
+        </td>
+        <td>
+            @foreach (var value in ShipperManager.Utils.EnumHelper<ShipperManager.Models.TrangThaiDonHang>.GetValues(ShipperManager.Models.TrangThaiDonHang.DaGiao))
+            {
+                if (value == item.TrangThaiGiao)
+                {
+                    var trangThai = ShipperManager.Utils.EnumHelper<ShipperManager.Models.TrangThaiDonHang>.GetDisplayValue(value);
+                    @Html.DisplayFor(e => trangThai)
+                }
+            }
+
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.PhuongThucThanhToan.Ten)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.KhoanCach)
+        </td>
+        <td>
+            @Html.ActionLink("Chi Tiết", "Details", new { id = item.Id }) |
+            @Html.ActionLink("Xóa", "Delete", new { id = item.Id })
+        </td>
+    </tr>
+}
+
+</table>

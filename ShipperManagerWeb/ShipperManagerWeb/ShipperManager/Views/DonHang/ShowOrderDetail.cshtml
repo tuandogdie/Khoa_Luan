@@ -1,0 +1,40 @@
+﻿@model IEnumerable<ShipperManager.Models.ChiTietDonHang>
+
+<table class="table">
+    <tr>
+        <th>
+            Tên
+        </th>
+        <th>
+            Giá
+        </th>
+        <th>
+            Số Lượng
+        </th>
+        <th>
+            Ảnh
+        </th>
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.SanPham.Ten)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.SanPham.Gia)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.SoLuong)
+            </td>
+            <td>
+                <img id="image" src="@item.SanPham.ImagePath" height="100" width="100" asp-append-version="true" />
+            </td>
+            <td>
+                @Html.ActionLink("Tăng", "IncreaseProductQuantity", new { @id = item.SanPham.Id, url = Request.Url.ToString() }, new { @class = "btn btn-info btn-sm custom-btn" }) <br />
+                @Html.ActionLink("Giảm", "DecreaseProductQuantity", new { @id = item.SanPham.Id, url = Request.Url.ToString() }, new { @class = "btn btn-info btn-sm custom-btn" }) <br />
+                @Html.ActionLink("Xóa", "RemoveProductDetail", new { @id = item.SanPham.Id, url = Request.Url.ToString() }, new { @class = "btn btn-info btn-sm custom-btn" }) <br />
+            </td>
+        </tr>
+    }
+</table>
