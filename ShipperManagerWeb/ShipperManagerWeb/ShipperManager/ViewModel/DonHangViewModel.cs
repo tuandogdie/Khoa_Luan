@@ -16,16 +16,19 @@ namespace ShipperManager.ViewModel
         public string Id { get; set; }
         public string MaNhanVien { get; set; }
         public string MaKhachHang { get; set; }
+        public string MaKho { get; set; }
         public string MaPhuongThucThanhToan { get; set; }
         public DateTime NgayTao { get; set; }
 
         public IEnumerable<SelectListItem> KhachHangListItem { get; set; }
+        public IEnumerable<SelectListItem> KhoListItem { get; set; }
         public IEnumerable<SelectListItem> PaymentMethodListItem { get; set; }
         public List<ChiTietDonHang> OrderDetailListItem { get; set; }
 
         public DonHangViewModel(List<ChiTietDonHang> orderDetailList)
         {
             Task.Run(() => InitKhachHangList()).Wait();
+            Task.Run(() => InitKhoList()).Wait();
             Task.Run(() => InitPaymentMethodgList()).Wait();
             OrderDetailListItem = orderDetailList;
             NgayTao = DateTime.Now;
@@ -40,10 +43,11 @@ namespace ShipperManager.ViewModel
         {
             var created = DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss");
             var kh = await DatabaseUtils.GetElementByKey<KhachHang>(TableCategory.KhachHang, MaKhachHang);
+            var kho= await DatabaseUtils.GetElementByKey<Kho>(TableCategory.Kho, MaKho);
             var pttt = await DatabaseUtils.GetElementByKey<PhuongThucThanhToan>(TableCategory.PhuongThucThanhToan, MaPhuongThucThanhToan);
             var nv = await DatabaseUtils.GetElementByKey<NhanVien>(TableCategory.NhanVien, MaNhanVien);
-            var dis = GetDrivingDistanceInMiles("12 Nguyễn Văn Bảo, Phường 4, Gò Vấp, Thành phố Hồ Chí Minh", kh.Object.DiaChi);
-            return new DonHang(nv.Object, kh.Object, created, pttt.Object, OrderDetailListItem,dis,25000);
+            var dis = GetDrivingDistanceInMiles(kho.Object.DiaChi, kh.Object.DiaChi);
+            return new DonHang(nv.Object,kho.Object, kh.Object, created, pttt.Object, OrderDetailListItem,dis,25000);
         }
 
         /// <summary>
@@ -54,7 +58,7 @@ namespace ShipperManager.ViewModel
         /// <returns></returns>
         public double GetDrivingDistanceInMiles(string origin, string destination)
         {
-            string url = $"https://maps.googleapis.com/maps/api/distancematrix/xml?units=imperial&origins={origin}&destinations={destination}&key=AIzaSyAQ98LDwfFxMuX46r1us23C2x0g1b6oTy4";
+            string url = $"https://maps.googleapis.com/maps/api/distancematrix/xml?units=imperial&origins={origin}&destinations={destination}&key=AIzaSyDfM042SyxHXm8CO-OA3bavSrBW0C_FmZk";
             HttpWebRequest request = (HttpWebRequest)WebRequest.Create(url);
             WebResponse response = request.GetResponse();
             Stream dataStream = response.GetResponseStream();
@@ -90,6 +94,23 @@ namespace ShipperManager.ViewModel
             KhachHangListItem = lst;
         }
 
+        private async Task InitKhoList()
+        {
+            var lst = new List<SelectListItem>();
+            var customers = await DatabaseUtils.GetAllElement<Kho>(TableCategory.Kho);
+            foreach (var item in customers)
+            {
+                var kh = item.Object;
+                kh.Id = item.Key;
+                var selectItem = new SelectListItem()
+                {
+                    Text = kh.Ten,
+                    Value = kh.Id
+                };
+                lst.Add(selectItem);
+            }
+            KhoListItem = lst;
+        }
         private async Task InitPaymentMethodgList()
         {
             var lst = new List<SelectListItem>();

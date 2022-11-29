@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="5dp">
+
+    <TextView
+        android:id="@+id/textView7"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="28dp"
+        android:text="Thu Hộ"
+        app:layout_constraintTop_toBottomOf="@+id/view3"
+        tools:layout_editor_absoluteX="13dp" />
+
+    <TextView
+        android:id="@+id/txt_show_order_thu_ho"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="28dp"
+        android:text="300.000đ"
+        app:layout_constraintEnd_toEndOf="@+id/txt_show_order_phi_ship"
+        app:layout_constraintTop_toBottomOf="@+id/view3" />
+
+    <View
+        android:id="@+id/view2"
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_marginTop="84dp"
+        android:background="@android:color/darker_gray"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:layout_editor_absoluteX="-7dp" />
+
+    <View
+        android:id="@+id/view3"
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_marginTop="64dp"
+        android:background="@android:color/darker_gray"
+        app:layout_constraintTop_toBottomOf="@+id/view2"
+        tools:layout_editor_absoluteX="5dp" />
+
+    <TextView
+        android:id="@+id/txt_show_order_phi_ship"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="24dp"
+        android:text="50.000đ"
+        app:layout_constraintEnd_toEndOf="@+id/txt_show_order_tong"
+        app:layout_constraintTop_toBottomOf="@+id/view2" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="12dp"
+        android:layout_marginLeft="12dp"
+        android:layout_marginTop="56dp"
+        android:text="Tổng"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/txt_show_order_tong"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="248dp"
+        android:layout_marginLeft="248dp"
+        android:layout_marginTop="52dp"
+        android:text="350.000đ"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.746"
+        app:layout_constraintStart_toEndOf="@+id/textView2"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="24dp"
+        android:text="Phí Ship"
+        app:layout_constraintTop_toBottomOf="@+id/view2"
+        tools:layout_editor_absoluteX="13dp" />
+
+    <TextView
+        android:id="@+id/txt_show_order_san_pham_count"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="4dp"
+        android:layout_marginLeft="4dp"
+        android:layout_marginTop="24dp"
+
+        android:text="Sản Phẩm: 3"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/txt_show_order_lo_trinh" />
+
+    <TextView
+        android:id="@+id/txt_show_order_lo_trinh"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="168dp"
+
+        android:text="Lộ Trình 13,2km"
+        app:layout_constraintStart_toStartOf="@+id/textView7"
+        app:layout_constraintTop_toBottomOf="@+id/textView7" />
+
+    <android.widget.Button
+        android:id="@+id/btn_show_order_xem_map"
+        android:layout_width="wrap_content"
+        android:layout_height="20dp"
+        android:background="@android:color/transparent"
+        android:text="xem bản đồ"
+        app:layout_constraintBottom_toBottomOf="@+id/txt_show_order_lo_trinh"
+        app:layout_constraintEnd_toEndOf="@+id/txt_show_order_thu_ho"
+        app:layout_constraintTop_toTopOf="@+id/txt_show_order_lo_trinh" />
+
+    <android.widget.Button
+        android:id="@+id/btn_show_order_xem_san_Pham"
+        android:layout_width="wrap_content"
+        android:layout_height="20dp"
+        android:layout_marginTop="20dp"
+        android:background="@android:color/transparent"
+        android:text="xem sản phẩm"
+        app:layout_constraintEnd_toEndOf="@+id/btn_show_order_xem_map"
+        app:layout_constraintTop_toBottomOf="@+id/btn_show_order_xem_map" />
+
+    <TextView
+        android:id="@+id/txt_show_order_dia_chi"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:background="@drawable/back"
+        android:padding="5dp"
+        android:text="20/5, trần quốc tuấn, phường 1, quận gò vấp, thành phố Hồ Chí Minh"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.4"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/txt_show_order_san_pham_count" />
+
+    <android.widget.Button
+
+        android:id="@+id/btn_show_order_huy_don"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="HỦY ĐƠN HÀNG"
+        android:textColor="@color/black"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.444"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/btn_show_order_da_giao"
+        app:layout_constraintVertical_bias="0.149" />
+
+    <android.widget.Button
+
+        android:id="@+id/btn_show_order_da_giao"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="84dp"
+        android:background="@drawable/main_button"
+        android:text="HOÀN THÀNH"
+        android:textColor="@color/black"
+        app:layout_constraintEnd_toEndOf="@+id/txt_show_order_dia_chi"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/txt_show_order_dia_chi" />
+
+    <LinearLayout
+        android:id="@+id/linearLayout"
+        android:layout_width="384dp"
+        android:layout_height="81dp"
+        android:layout_margin="10dp"
+        android:layout_marginTop="24dp"
+        android:background="@color/text_light_background"
+        android:orientation="horizontal"
+
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView7">
+
+        <TextView
+            android:id="@+id/txt_show_order_ten_kh"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="20dp"
+            android:text="Lâm Minh Hy"
+            android:textSize="20dp"
+            android:textStyle="bold|italic" />
+
+        <TextView
+            android:id="@+id/txt_show_order_sdt"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="20dp"
+            android:text="01674275557"
+            android:textSize="20dp"
+            android:textStyle="bold" />
+
+        <ImageButton
+
+            android:id="@+id/btn_show_order_call"
+            android:layout_width="40dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_weight="1"
+            android:background="@color/text_light_background"
+            app:srcCompat="@drawable/call"
+
+            />
+
+    </LinearLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -2,7 +2,9 @@
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.Linq;
+using System.Threading.Tasks;
 using System.Web;
+using System.Web.Mvc;
 
 namespace ShipperManager.Models
 {
@@ -23,5 +25,8 @@ namespace ShipperManager.Models
         public bool TrangThai { get; set; }
         [Display(Name = "Ảnh")]
         public string ImagePath { get; set; }
+        
+        public string TenKho { get; set; }
+        public Kho Kho { get; set; }
     }
 }

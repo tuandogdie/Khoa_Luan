@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="left"
+    tools:context=".menu.MenuActivity"
+    android:orientation="horizontal">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="top"
+        android:orientation="vertical"
+        >
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="150dp"
+            android:layout_gravity="top"
+            android:background="@color/main_button"
+            android:orientation="vertical"
+            android:padding="10dp">
+
+            <ImageView
+                android:id="@+id/img_menu_shipper"
+                android:layout_width="140dp"
+                android:layout_height="match_parent"
+                android:src="@drawable/logo"
+                app:layout_constraintStart_toStartOf="parent"
+                tools:layout_editor_absoluteY="10dp" />
+
+            <TextView
+                android:id="@+id/txt_shipper_name"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Lâm Minh Hy"
+                android:textColor="@color/common_google_signin_btn_text_dark_focused"
+                android:textSize="24dp"
+                app:layout_constraintBottom_toTopOf="@+id/txt_shipper_quequan"
+                app:layout_constraintStart_toStartOf="@+id/txt_shipper_quequan"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <TextView
+                android:id="@+id/txt_shipper_ngaysinh"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="20/10/1999"
+                android:textColor="@color/common_google_signin_btn_text_dark_focused"
+                android:textSize="18dp"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintStart_toStartOf="@+id/txt_shipper_quequan"
+                app:layout_constraintTop_toBottomOf="@+id/txt_shipper_quequan" />
+
+            <TextView
+                android:id="@+id/txt_shipper_quequan"
+                android:layout_width="246dp"
+                android:layout_height="75dp"
+                android:text="ấp ba trại, xã bình an huyện kiên lương tỉnh kiên giang"
+                android:textColor="@color/common_google_signin_btn_text_dark_focused"
+                android:textSize="18dp"
+                app:layout_constraintBottom_toTopOf="@+id/txt_shipper_ngaysinh"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/txt_shipper_name" />
+
+        </androidx.constraintlayout.widget.ConstraintLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="top"
+            android:layout_marginTop="20dp"
+            android:orientation="horizontal">
+
+            <android.widget.Button
+                android:id="@+id/btnTimDonHang"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:backgroundTint="@color/white"
+                android:drawableTop="@drawable/timdonhang"
+                android:text="tìm đơn hàng" />
+
+            <android.widget.Button
+                android:id="@+id/btnDaGiao"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:backgroundTint="@color/white"
+                android:drawableTop="@drawable/dagiao"
+                android:text="lịch sử" />
+
+            <android.widget.Button
+                android:id="@+id/btnLogout"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:backgroundTint="@color/white"
+                android:drawableTop="@drawable/logout"
+                android:text="đăng xuất" />
+        </LinearLayout>
+
+    </LinearLayout>
+
+
+</LinearLayout>

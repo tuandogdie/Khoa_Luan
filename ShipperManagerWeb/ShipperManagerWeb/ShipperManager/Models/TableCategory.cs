@@ -13,5 +13,6 @@ namespace ShipperManager.Models
         public static string SanPham = "SanPham";
         public static string PhuongThucThanhToan = "PhuongThucThanhToan";
         public static string Shipper = "Shipper";
+        public static string Kho = "Kho";
     }
 }

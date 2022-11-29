@@ -7,14 +7,14 @@
     });
 
     // TODO: Replace with your app's Firebase project configuration
-    const firebaseConfig = {
+    var firebaseConfig = {
         apiKey: "AIzaSyCkbSYd9sBP_45ef60p5DUCnOrS8RnW2HE",
         authDomain: "shippermanager-606da.firebaseapp.com",
-        databaseURL: "https://shippermanager-606da-default-rtdb.firebaseio.com/",
+        databaseURL: "https://shippermanager-606da-default-rtdb.firebaseio.com",
         projectId: "shippermanager-606da",
         storageBucket: "shippermanager-606da.appspot.com",
         messagingSenderId: "460240651199",
-        appId: "1:460240651199:web:8c8db2b9fbc408d5b2570a",
+        appId: "1:460240651199:android:fe75318b5b3d43ecb2570a",
         measurementId: "G-3G1E4LYT51"
     };
 

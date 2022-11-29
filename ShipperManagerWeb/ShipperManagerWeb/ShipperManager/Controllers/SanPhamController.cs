@@ -65,7 +65,7 @@ namespace ShipperManager.Controllers
 
                 return RedirectToAction("Index");
             }
-            catch(Exception)
+            catch(Exception ex)
             {
                 return View();
             }

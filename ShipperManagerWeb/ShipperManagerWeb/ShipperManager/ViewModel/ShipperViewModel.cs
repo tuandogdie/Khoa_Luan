@@ -11,11 +11,13 @@ namespace ShipperManager.ViewModel
     {
         public Shipper Shipper { get; set; }
         public List<DonHang> ListDonHang { get; set; } = new List<DonHang>();
+        
 
         public ShipperViewModel(Shipper shipper,List<DonHang> listDonHang)
         {
             Shipper = shipper;
             ListDonHang = listDonHang;
+           
         }
 
 

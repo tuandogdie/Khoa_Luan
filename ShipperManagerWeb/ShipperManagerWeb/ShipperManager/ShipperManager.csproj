@@ -52,7 +52,6 @@
   <ItemGroup>
     <Reference Include="Firebase, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <HintPath>..\packages\FirebaseDatabase.net.4.1.0\lib\netstandard2.0\Firebase.dll</HintPath>
-      <Private>True</Private>
     </Reference>
     <Reference Include="Firebase.Auth, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <HintPath>..\packages\FirebaseAuthentication.net.3.7.2\lib\netstandard1.1\Firebase.Auth.dll</HintPath>
@@ -274,6 +273,7 @@
     <Compile Include="App_Start\FilterConfig.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="Controllers\AccountController.cs" />
+    <Compile Include="Controllers\KhoController.cs" />
     <Compile Include="Controllers\KhachHangController.cs" />
     <Compile Include="Controllers\DonHangController.cs" />
     <Compile Include="Controllers\PhuongThucThanhToanController.cs" />
@@ -285,6 +285,7 @@
     <Compile Include="Models\ChiTietDonHang.cs" />
     <Compile Include="Models\DatabaseUtils.cs" />
     <Compile Include="Models\DonHang.cs" />
+    <Compile Include="Models\Kho.cs" />
     <Compile Include="Models\KhachHang.cs" />
     <Compile Include="Models\NhanVien.cs" />
     <Compile Include="Models\PhuongThucThanhToan.cs" />
@@ -294,6 +295,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Utils\EnumHelper.cs" />
     <Compile Include="ViewModel\DonHangViewModel.cs" />
+    <Compile Include="ViewModel\KhoViewModel.cs" />
     <Compile Include="ViewModel\KhachHangViewModel.cs" />
     <Compile Include="ViewModel\ShipperViewModel.cs" />
   </ItemGroup>
@@ -379,6 +381,11 @@
     <Content Include="Views\DonHang\Details.cshtml" />
     <Content Include="Views\SanPham\Edit.cshtml" />
     <Content Include="Views\DonHang\ShowOrderDetail.cshtml" />
+    <Content Include="Views\Kho\Create.cshtml" />
+    <Content Include="Views\Kho\Details.cshtml" />
+    <Content Include="Views\Kho\Edit.cshtml" />
+    <Content Include="Views\Kho\Index.cshtml" />
+    <Content Include="Views\Kho\ShowDonHang.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />

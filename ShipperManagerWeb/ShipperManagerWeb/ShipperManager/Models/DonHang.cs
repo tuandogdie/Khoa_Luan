@@ -20,6 +20,7 @@ namespace ShipperManager.Models
         public string Id { get; set; }
         public NhanVien NhanVien { get; set; }
         public KhachHang KhachHang { get; set; }
+        public Kho Kho { get; set; }
         public string NgayTao { get; set; }
         public TrangThaiDonHang TrangThaiGiao { get; set; }
         public PhuongThucThanhToan PhuongThucThanhToan { get; set; }
@@ -33,7 +34,7 @@ namespace ShipperManager.Models
         public decimal PhiGiaoHang { get; set; }
         public Shipper Shipper { get; set; }
 
-        public DonHang(NhanVien nhanVien, KhachHang khachHang, string ngayTao, PhuongThucThanhToan phuongThucThanhToan,List<ChiTietDonHang> cttt,double khoanCanh,decimal phiGiaoHang)
+        public DonHang(NhanVien nhanVien, Kho kho, KhachHang khachHang, string ngayTao, PhuongThucThanhToan phuongThucThanhToan,List<ChiTietDonHang> cttt,double khoanCanh,decimal phiGiaoHang)
         {
             NhanVien = nhanVien;
             KhachHang = khachHang;
@@ -46,7 +47,7 @@ namespace ShipperManager.Models
             NgayGiao = string.Empty;
             KhoanCach = khoanCanh;
             PhiGiaoHang = phiGiaoHang;
-            
+            Kho = kho;
         }
 
         public DonHang() { }

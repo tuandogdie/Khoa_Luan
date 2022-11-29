@@ -23,6 +23,7 @@ namespace ShipperManager.Controllers
         {
             var shipper = await DatabaseUtils.GetElementByKey<Shipper>(TableCategory.Shipper, id);
             var listObj = await DatabaseUtils.GetAllElement<DonHang>(TableCategory.DonHang);
+            var listKho = await DatabaseUtils.GetAllElement<Kho>(TableCategory.Kho);
             var listDonHang = new List<DonHang>();
             foreach(var item in listObj)
             {
@@ -34,6 +35,7 @@ namespace ShipperManager.Controllers
                     }
                 }
             }
+           
 
             return View(new ShipperViewModel(shipper.Object,listDonHang));
         }
@@ -42,6 +44,21 @@ namespace ShipperManager.Controllers
         public async Task<ActionResult> Edit(string id)
         {
             var obj = await DatabaseUtils.GetElementByKey<Shipper>(TableCategory.Shipper, id);
+          
+            var lst = new List<SelectListItem>();
+            var customers = await DatabaseUtils.GetAllElement<Kho>(TableCategory.Kho);
+            foreach (var item in customers)
+            {
+                var kh = item.Object;
+                kh.Id = item.Key;
+                var selectItem = new SelectListItem()
+                {
+                    Text = kh.Ten,
+                    Value = kh.Id
+                };
+                lst.Add(selectItem);
+            }
+            ViewBag.lstkho = lst;
             return View(obj.Object);
         }
 
@@ -57,7 +74,12 @@ namespace ShipperManager.Controllers
             obj.NgaySinh = collection["NgaySinh"];
             obj.TaiKhoan = collection["TaiKhoan"];
             obj.MatKhau = collection["MatKhau"];
+            var kho = await DatabaseUtils.GetElementByKey<Kho>(TableCategory.Kho, collection["TenKho"]);
+            obj.Kho = kho.Object;
+            
+            obj.TenKho = kho.Object.Ten;
             obj.TrangThai = Convert.ToBoolean(collection["TrangThai"].Split(',').First());
+           
             await DatabaseUtils.UpdateElementByKey(TableCategory.Shipper, obj, obj.Id);
 
             foreach (var item in await DatabaseUtils.GetAllElement<DonHang>(TableCategory.DonHang))

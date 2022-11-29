@@ -1,0 +1,59 @@
+﻿@model ShipperManager.ViewModel.KhoViewModel
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Thống Kê Kho Hàng</h2>
+<div class="form-horizontal">
+    <div>
+        <h4>Thông Tin</h4>
+        <hr />
+        <dl class="dl-horizontal">
+            <dt>
+                Tên
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.Kho.Ten)
+            </dd>
+
+            <dt>
+                Địa Chỉ
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.Kho.DiaChi)
+            </dd>
+
+        </dl>
+    </div>
+    <p>
+        @Html.ActionLink("Trở lại", "Index") | 
+        @Html.ActionLink("Chỉnh sửa", "Edit", new { id = Model.Kho.Id })
+    </p>
+    <div class="form-group">
+        <div class="col-md-10"><h4>Danh Sách Đơn Hàng Của Kho Hàng</h4></div>
+        <div class="col-md-10">
+            @Html.DropDownList("TrangThai", Model.TrangThaiListItem, new { @style = "width: 200px", @onchange = "DropDownProductList();" })
+            @Scripts.Render("~/bundles/jquery")
+            <script type="text/javascript">
+                function DropDownProductList() {
+                    var tt = $("#TrangThai :selected").val();
+                    var url = '@Url.Action("ShowDonHang", "Kho",new { id = Model.Kho.Id})'
+                    url += "?trangThai=" + tt;
+                    
+                    $("#donHangTable").load(url)
+                }
+                $(document).ready(function () {
+                    var url = '@Url.Action("ShowDonHang", "Kho",new { id = Model.Kho.Id ,trangThai = "0"})'
+                    $("#donHangTable").load(url)
+                });
+            </script>
+        </div>
+        <div class="col-md-10">
+            <div id="donHangTable"></div>
+
+        </div>
+    </div>
+</div>

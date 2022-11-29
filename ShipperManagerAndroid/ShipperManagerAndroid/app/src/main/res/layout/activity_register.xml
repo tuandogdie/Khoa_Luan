@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center"
+    android:background="@color/main_background"
+    android:gravity="center"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:gravity="center_vertical"
+        android:orientation="vertical">
+
+
+        <com.google.android.material.textfield.TextInputLayout
+            style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:layout_marginBottom="8dp"
+            app:boxStrokeColor="@color/text_dark_background"
+            app:boxStrokeWidth="3dp"
+            app:hintTextColor="@color/text_dark_background"
+            >
+
+            <com.google.android.material.textfield.TextInputEditText
+                android:id="@+id/txt_resigter_name"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:drawablePadding="10dp"
+                android:hint="Tên"
+
+                android:inputType="textEmailAddress"
+                android:textColor="@color/text_dark_background"
+                android:textColorHighlight="@color/text_dark_background"
+                android:textStyle="bold" />
+        </com.google.android.material.textfield.TextInputLayout>
+        <com.google.android.material.textfield.TextInputLayout
+            style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:layout_marginBottom="8dp"
+            app:boxStrokeWidth="3dp"
+            app:boxStrokeColor="@color/text_dark_background"
+            app:hintTextColor="@color/text_dark_background">
+
+            <com.google.android.material.textfield.TextInputEditText
+                android:id="@+id/txt_register_quequan"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:drawablePadding="10dp"
+                android:hint="Quê Quán"
+                android:textColor="@color/text_dark_background"
+                android:textStyle="bold" />
+        </com.google.android.material.textfield.TextInputLayout>
+
+        <com.google.android.material.textfield.TextInputLayout
+            style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:layout_marginBottom="8dp"
+            app:boxStrokeWidth="3dp"
+            app:boxStrokeColor="@color/text_dark_background"
+            app:hintTextColor="@color/text_dark_background">
+
+            <com.google.android.material.textfield.TextInputEditText
+                android:id="@+id/txt_register_ngaysinh"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:drawablePadding="10dp"
+                android:hint="Ngày Sinh"
+                android:ems="10"
+                android:inputType="date"
+                android:textColor="@color/text_dark_background"
+                android:textStyle="bold" />
+        </com.google.android.material.textfield.TextInputLayout>
+
+        <com.google.android.material.textfield.TextInputLayout
+            style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:layout_marginBottom="8dp"
+            app:boxStrokeWidth="3dp"
+            app:boxStrokeColor="@color/text_dark_background"
+            app:hintTextColor="@color/text_dark_background">
+
+            <com.google.android.material.textfield.TextInputEditText
+                android:id="@+id/txt_register_username"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:drawablePadding="10dp"
+                android:hint="Tên Tài Khoản"
+                android:textColor="@color/text_dark_background"
+                android:textStyle="bold" />
+        </com.google.android.material.textfield.TextInputLayout>
+
+        <com.google.android.material.textfield.TextInputLayout
+            style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:layout_marginBottom="8dp"
+            app:boxStrokeWidth="3dp"
+            app:boxStrokeColor="@color/text_dark_background"
+            app:hintTextColor="@color/text_dark_background">
+
+            <com.google.android.material.textfield.TextInputEditText
+                android:id="@+id/txt_register_password"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:drawablePadding="10dp"
+                android:hint="Mật Khẩu"
+                android:inputType="textPassword"
+                android:textColor="@color/text_dark_background"
+                android:textStyle="bold" />
+        </com.google.android.material.textfield.TextInputLayout>
+
+        <com.google.android.material.textfield.TextInputLayout
+            style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:layout_marginBottom="8dp"
+            app:boxStrokeWidth="3dp"
+            app:boxStrokeColor="@color/text_dark_background"
+            app:hintTextColor="@color/text_dark_background">
+
+            <com.google.android.material.textfield.TextInputEditText
+                android:id="@+id/txt_register_validate_password"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:drawablePadding="10dp"
+                android:hint="Nhập Lại Mật Khẩu"
+                android:inputType="textPassword"
+                android:textColor="@color/text_dark_background"
+                android:textStyle="bold" />
+        </com.google.android.material.textfield.TextInputLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical"
+            android:orientation="horizontal">
+            <android.widget.Button
+                android:id="@+id/btn_retgister_pickimg"
+                android:layout_width="100dp"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/checkbox"
+                android:background="@drawable/main_button"
+                android:padding="10dp"
+                android:text="Chọn ảnh đại diện"
+                android:textColor="@color/text_dark_background"
+                android:textStyle="bold" />
+            <ImageView
+                android:layout_marginLeft="10dp"
+                android:id="@+id/img_shipper"
+                android:layout_width="90dp"
+                android:layout_height="90dp"
+                app:srcCompat="@drawable/emty" />
+        </LinearLayout>
+
+
+        <android.widget.Button
+            android:id="@+id/btn_register_dangky"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/checkbox"
+            android:layout_marginTop="8dp"
+            android:layout_marginBottom="8dp"
+            android:background="@drawable/main_button"
+            android:padding="10dp"
+            android:text="ĐĂNG Ký"
+            android:textColor="@color/text_dark_background"
+            android:textStyle="bold" />
+
+    </LinearLayout>
+
+</RelativeLayout>

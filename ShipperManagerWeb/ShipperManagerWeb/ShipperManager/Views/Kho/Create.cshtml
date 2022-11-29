@@ -1,0 +1,67 @@
+﻿@model ShipperManager.Models.Kho
+
+@{
+    ViewBag.Title = "Thêm Kho Hàng";
+}
+<script type="module" src="~/Scripts/map.js"></script>
+<h2>Thêm Kho Hàng</h2>
+
+@using (Html.BeginForm("Create", "Kho", FormMethod.Post, new { enctype = "multipart/form-data" }))
+{
+    @Html.AntiForgeryToken()
+
+    <div class="form-horizontal">
+        <h4>Kho Hàng</h4>
+        <hr />
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+        <div class="form-group">
+            <label class="control-label col-md-1">Tên</label>
+            <div class="col-md-3">
+                @Html.EditorFor(model => model.Ten, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.Ten, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            <label class="control-label col-md-1">Kinh Độ</label>
+            <div class="col-md-3">
+                @Html.EditorFor(model => model.KinhDo, new { htmlAttributes = new { @class = "form-control", @id = "latInput" , @readonly = "readonly"} })
+                @Html.ValidationMessageFor(model => model.KinhDo, "", new { @class = "text-danger" })
+            </div>
+            <label class="control-label col-md-2">Vĩ Độ</label>
+            <div class="col-md-3">
+                @Html.EditorFor(model => model.ViDo, new { htmlAttributes = new { @class = "form-control", @id = "lngInput", @readonly = "readonly" } })
+                @Html.ValidationMessageFor(model => model.ViDo, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            <label class="control-label col-md-1">Địa Chỉ</label>
+            <div class="col-md-8">
+                @Html.EditorFor(model => model.DiaChi, new { htmlAttributes = new { @class = "form-control", @id = "addressInput" ,  @readonly = "readonly" } })
+                @Html.ValidationMessageFor(model => model.DiaChi, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+
+
+        <div class="form-group">
+            <div class="col-md-offset-1 col-md-10">
+                <input type="submit" value="Thêm" class="btn btn-primary" />
+            </div>
+        </div>
+    </div>
+}
+
+<div>
+    @Html.ActionLink("Trở lại", "Index")
+</div>
+
+<div>
+    
+    <label class="label-info">Chọn Địa Chỉ Kho Hàng Từ Bản Đồ</label>
+    <input type="text" id="pac-input" class="controls" placeholder="Search Box" />
+    <div id="map"></div>
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBDUhdcb_Ex8vsbS9zpuHMbZ5ujjdNtamc&callback=initMap&libraries=places&sensor=false"></script>
+
+</div>
